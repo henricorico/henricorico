@@ -1,3 +1,3 @@
 ## aoba 👋
 
-- 🌱 estudando python e java
+- 🧙‍♂️ PHP
