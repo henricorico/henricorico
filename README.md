@@ -16,7 +16,7 @@
  
 
  
- ![Snake animation](https://github.com/kitsunebishi/kitsunebishi/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/henricorico/henricorico/blob/output/github-contribution-grid-snake.svg)
  
 
  
