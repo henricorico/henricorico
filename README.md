@@ -1,5 +1,5 @@
 ## aoba 👋
-# ![snake gif](https://github.com/henricorico/henricorico/blob/output/github-contribution-grid-snake.gif)
+
 ## Meu Nome é Henrique!
  
 
@@ -34,7 +34,7 @@
  
  <a href="https://discord.gg/ztGZeZECN6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  
-  <a href = "mailto:raphajamesfcunha@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:hklima123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
 
  
