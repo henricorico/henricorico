@@ -1,5 +1,5 @@
 ##‎hello‎       
--  🐘 PHP       
--  C++                   
+-  🐘 PHP        
+-  C++                    
 -  C#                               
 -  C                                     
