@@ -1,8 +1,7 @@
 
-     ㅤㅤLinux S2.          
-ㅤㅤㅤㅤㅤPHPㅤㅤㅤㅤ2.        
-ㅤㅤㅤㅤC++ㅤㅤㅤㅤㅤㅤ0. ㅤㅤ                            
-ㅤㅤㅤC#ㅤㅤㅤㅤㅤㅤㅤㅤ0.   ㅤ                           ㅤㅤCㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ1.ㅤㅤ
- 
+     ㅤㅤLinux           
+ㅤㅤㅤㅤㅤPHPㅤㅤㅤ       
+ㅤㅤㅤㅤC++ㅤㅤㅤㅤㅤㅤㅤ                            
+ㅤㅤㅤC#ㅤㅤㅤㅤㅤ ㅤ                           ㅤㅤCㅤㅤㅤㅤ
 ㅤ 
 "faça seu dinheiro como quiser, ninguém vai na sua casa perguntar o que lhe falta."ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ              
