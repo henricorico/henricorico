@@ -37,7 +37,9 @@
 ---
 ## 🔥 Projetos em destaque
 - [**TrincaVolts**](https://github.com/henricorico/TrincaVolts) – Sistema teórico de PEM com design de pistola e LEDs indicadores.
+
 ---
+
 # The Division Bell
 
 ![Capa do The Division Bell](https://i.imgur.com/wHw0m0T.png)
