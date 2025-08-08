@@ -37,7 +37,7 @@
 ---
 # The Division Bell
 
-![Capa do The Division Bell](https://upload.wikimedia.org/wikipedia/en/thumb/4/48/TheDivisionBell.jpg/220px-TheDivisionBell.jpg)
+![Capa do The Division Bell](https://i.imgur.com/wHw0m0T.png)
 
 ## Sobre o Álbum
 
