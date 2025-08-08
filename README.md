@@ -56,7 +56,9 @@
 </p>
 
 ---
-
+## 🔥 Projetos em destaque
+- [**TrincaVolts**](link-projeto) – Sistema teórico de PEM com design de pistola e LEDs indicadores.
+---
 <p align="center">
   <i>nimonimonimonimo</i>
 </p>
