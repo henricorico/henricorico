@@ -1,4 +1,4 @@
-<h1 align="center">👋 E aí,Eu sou o Rico</h1>
+<h1 align="center">👋 E aí,eu sou o Rico</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/1INYrlX.gif" alt="Goku gritando" width="800">
@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Sobre mim
-- 💻 Serralheiro nas horas de dia, guerreiro dos infoprodutos à noite  
+- 💻 Serralheiro nas horas de dia, guerreiro dos infoprodutos à noite   
 - 📚 Curto tecnologia, programação e projetos doidos com eletrônica  
 
 ---
@@ -25,7 +25,7 @@
 ## 📊 Estatísticas de guerra
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henricorico&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/uhenricorico&layout=compact&theme=tokyonight" alt="Top langs" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricorico&layout=compact&theme=tokyonight" alt="Top langs" height="165">
 </p>
 
 ---
@@ -45,5 +45,5 @@
 ---
 
 <p align="center">
-  <i>👨🏻‍🏭</i>
+  <i>nimonimonimonimo</i>
 </p>
