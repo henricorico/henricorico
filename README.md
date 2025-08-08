@@ -49,23 +49,23 @@
 
   2. What Do You Want from Me
 
-3.Poles Apart
+   3.Poles Apart
 
-4.Marooned
+   4.Marooned
 
-5.A Great Day for Freedom
+   5.A Great Day for Freedom
 
-6.Wearing the Inside Out
+   6.Wearing the Inside Out
 
-7.Take It Back
+   7.Take It Back
 
-8.Coming Back to Life
+   8.Coming Back to Life
 
-9.Keep Talking
+   9.Keep Talking
 
-10.Lost for Words
+   10.Lost for Words
 
-11.High Hopes
+   11.High Hopes
 
 ---
 ##
