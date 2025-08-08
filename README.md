@@ -47,8 +47,8 @@
 -What Do You Want from Me 🎵
 
 ---
-
-https://i.imgur.com/6Ehialg.gif
+![Yu Yu Hakusho fofo](https://i.imgur.com/6Ehialg.gif)
+---
 
 ##
 <p align="center">
