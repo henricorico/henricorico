@@ -36,7 +36,9 @@
 </p>
 ---
 ## 🔥 Projetos em destaque
-- [**TrincaVolts**](https://github.com/henricorico/TrincaVolts) – Sistema teórico de PEM com design de pistola e LEDs indicadores.
+    TrincaVolts
+https://github.com/henricorico/TrincaVolts
+ – Sistema teórico de PEM com design de pistola e LEDs indicadores.
 
 ---
 
