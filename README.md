@@ -45,19 +45,19 @@
 
 ## Faixas
 
-1. Speak to Me
-2. Breathe (In the Air)
-3. On the Run
-4. Time
-5. The Great Gig in the Sky
-6. Money
-7. Us and Them
-8. Any Colour You Like
-9. Brain Damage
-10. Eclipse
+1. Cluster One
+2. What Do You Want from Me
+3.Poles Apart
+4.Marooned
+5.A Great Day for Freedom
+6.Wearing the Inside Out
+7.Take It Back
+8.Coming Back to Life
+9.Keep Talking
+10.Lost for Words
+11.High Hopes
 
-- [Spotify](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv)
-- [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_kmJ_jWQw3qI-J2M5FMxI9OL09tA5Mqv0s)
+Spotify = https://open.spotify.com/album/4LPexLv2QvDLQ3KInFoLkM
 ---
 ##
 <p align="center">
