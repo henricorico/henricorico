@@ -35,8 +35,31 @@
 </p>
 
 ---
+# The Division Bell
 
-## 💬 Frase de impacto
+![Capa do The Division Bell](https://upload.wikimedia.org/wikipedia/en/thumb/4/48/TheDivisionBell.jpg/220px-TheDivisionBell.jpg)
+
+## Sobre o Álbum
+
+*The Division Bell* é o décimo quarto álbum de estúdio da banda britânica Pink Floyd, lançado em 1994.
+
+## Faixas
+
+1. Speak to Me
+2. Breathe (In the Air)
+3. On the Run
+4. Time
+5. The Great Gig in the Sky
+6. Money
+7. Us and Them
+8. Any Colour You Like
+9. Brain Damage
+10. Eclipse
+
+- [Spotify](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv)
+- [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_kmJ_jWQw3qI-J2M5FMxI9OL09tA5Mqv0s)
+---
+##
 <p align="center">
   <b>"Faça seu dinheiro como quiser, ninguém vai na sua casa perguntar o que lhe falta."</b>
 </p>
