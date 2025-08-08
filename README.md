@@ -24,8 +24,8 @@
 
 ## 📊 Estatísticas de guerra
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" alt="Top langs" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=henricorico&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/uhenricorico&layout=compact&theme=tokyonight" alt="Top langs" height="165">
 </p>
 
 ---
