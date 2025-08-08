@@ -34,7 +34,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=henricorico&theme=tokyo-night" alt="Gráfico de atividades">
 </p>
+
 ---
+ 
 ## 🔥 Projetos em destaque
     *TrincaVolts*
 
