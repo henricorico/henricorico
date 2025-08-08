@@ -8,8 +8,6 @@
 
 ## 🚀 Sobre mim
 - 💻 Serralheiro nas horas de dia, guerreiro dos infoprodutos à noite  
-- 🏍️ Juntando pra comprar minha moto  
-- 🥩 Foco em ficar sheipado e ganhar massa  
 - 📚 Curto tecnologia, programação e projetos doidos com eletrônica  
 
 ---
