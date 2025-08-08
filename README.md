@@ -34,7 +34,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=henricorico&theme=tokyo-night" alt="Gráfico de atividades">
 </p>
-
+---
+## 🔥 Projetos em destaque
+- [**TrincaVolts**](https://github.com/henricorico/TrincaVolts) – Sistema teórico de PEM com design de pistola e LEDs indicadores.
 ---
 # The Division Bell
 
@@ -56,9 +58,7 @@
 </p>
 
 ---
-## 🔥 Projetos em destaque
-- [**TrincaVolts**](link-projeto) – Sistema teórico de PEM com design de pistola e LEDs indicadores.
----
+
 <p align="center">
   <i>nimonimonimonimo</i>
 </p>
