@@ -32,7 +32,7 @@
 
 ## 📈 Atividade
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=tokyo-night" alt="Gráfico de atividades">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=henricorico&theme=tokyo-night" alt="Gráfico de atividades">
 </p>
 
 ---
