@@ -44,9 +44,8 @@
 *The Division Bell* é o décimo quarto álbum de estúdio da banda britânica Pink Floyd, lançado em 1994.
 
 ## Faixas
-
  1. Cluster One
- 2. What Do You Want from Me
+ 2.  2. What Do You Want from Me
 
  3.Poles Apart
 
