@@ -6,12 +6,12 @@
 
 ---
 
+
 <h2 align="center">🚀 Sobre mim</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=💻+Serralheiro+nas+horas+de+dia;⚔️+Guerreiro+dos+infoprodutos+à+noite;📚+Curto+tecnologia,+programação+e+projetos+com+eletrônica" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 🛠️ Minhas armas de batalha
