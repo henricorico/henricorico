@@ -10,10 +10,8 @@
 - 💻 Serralheiro nas horas de dia, guerreiro dos infoprodutos à noite   
 - 📚 Curto tecnologia, programação e projetos com eletrônica  
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/89/d0/45/89d045814cbb2cbf632e10ab7e123b6f.gif" alt= width="800">
-</p>
 ---
+
 ## 🛠️ Minhas armas de batalha
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
