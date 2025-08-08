@@ -57,7 +57,6 @@
 10.Lost for Words
 11.High Hopes
 
-Spotify = https://open.spotify.com/album/4LPexLv2QvDLQ3KInFoLkM
 ---
 ##
 <p align="center">
