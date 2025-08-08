@@ -6,10 +6,13 @@
 
 ---
 
-## 🚀 Sobre mim
-- 💻 Serralheiro nas horas de dia, guerreiro dos infoprodutos à noite   
-- 📚 Curto tecnologia, programação e projetos com eletrônica  
+<h2 align="center">🚀 Sobre mim</h2>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF5733&width=700&height=60&lines=💻+Serralheiro+nas+horas+de+dia;⚔️+Guerreiro+dos+infoprodutos+à+noite;📚+Curto+tecnologia,+programação+e+eletrônica" alt="Typing SVG" />
+  </a>
+</p>
 ---
 
 ## 🛠️ Minhas armas de batalha
