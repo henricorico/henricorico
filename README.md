@@ -1,4 +1,4 @@
-<h1 align="center">👋 E aí, cabras! Eu sou o Rico</h1>
+<h1 align="center">👋 E aí,Eu sou o Rico</h1>
 
 <p align="center">
   <img src="https://i.imgur.com/1INYrlX.gif" alt="Goku gritando" width="800">
@@ -45,5 +45,5 @@
 ---
 
 <p align="center">
-  <i>"A vida é um combate, e eu tô sempre pronto pra próxima luta."</i>
+  <i>👨🏻‍🏭</i>
 </p>
