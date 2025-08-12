@@ -39,6 +39,41 @@
 
 ---
 
+## 30% 🐋
+
+<p align="center">
+  <img src="https://archives.bulbagarden.net/media/upload/7/77/Pokémon_logo.png" width="300px" />
+</p>
+
+<h2 align="center">🌊 Treinador Estilo Água • Gotta Code 'Em All!</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔵-Water--Type-blue" />
+  <img src="https://img.shields.io/badge/💻-Code--Trainer-lightblue" />
+  <img src="https://img.shields.io/badge/🌊-Wave--Master-cyan" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://archives.bulbagarden.net/media/upload/3/39/007Squirtle.png" width="120px" />
+  <img src="https://archives.bulbagarden.net/media/upload/5/54/008Wartortle.png" width="120px" />
+  <img src="https://archives.bulbagarden.net/media/upload/0/02/009Blastoise.png" width="120px" />
+</p>
+
+---
+
+<h3 align="center">📜 Pokédex do Dev</h3>
+
+- **Região:** Kanto 🗺️  
+- **Pokémon inicial:** Squirtle 🐢💦  
+- **Badge atual:** Cascade Badge 💧  
+- **Meta final:** Ser o Mestre Pokémon do código e dos mares 🌊🏆  
+
+> *"No código e na batalha, flua como a água: adaptável, mas poderosa."*
+
+---
+
 ## 🛠️ Minhas armas de batalha
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
