@@ -40,13 +40,12 @@
 ![🔩 Parafuso & Martelo](https://img.shields.io/badge/🔩-Parafuso--%26--Martelo-blue)  
 
 <p align="center">
-  <img src="https://i.imgur.com/W8uyJqK.gif" alt="Typing animation" />
-</p>
+  <img src="https://i.imgur.com/W8uyJqK.gif" alt="Typing animation" 
 
 ---
- 
-![Fullmetal Moment](https://media.tenor.com/OcU6s8kDkHgAAAAC/edward-elric-fullmetal-alchemist.gif)
 
+
+<img src="https://media.tenor.com/OcU6s8kDkHgAAAAC/edward-elric-fullmetal-alchemist.gif" width="300" />
 ---
 
 ## 30% 🐋
