@@ -19,6 +19,16 @@
 ![Badge de Espírito](https://img.shields.io/badge/👹-Detetive--Espiritual-red)
 ![Badge de Resistência](https://img.shields.io/badge/🪙-1000h--de--Oficina-brown)
 ![Badge de Vitória](https://img.shields.io/badge/🏆-Sem--Game--Over-gold)
+![Badge de Alquimia](https://img.shields.io/badge/⚗️-Alquimia--Total-red)
+![Badge de Transmutação](https://img.shields.io/badge/🔵-Círculo--de--Transmutação-blue)
+![Badge de Automail](https://img.shields.io/badge/🤖-Braço--de--Aço-silver)
+![Badge de Elric](https://img.shields.io/badge/🟡-Irmãos--Elric-gold)
+![Badge de Mustang](https://img.shields.io/badge/🔥-Chama--do--Mustang-orange)
+![Badge de Armstrong](https://img.shields.io/badge/💪-Força--Brilhante-pink)
+![Badge de Homúnculo](https://img.shields.io/badge/🧬-Pecados--Capitais-black)
+![Badge de Verdade](https://img.shields.io/badge/👁️-Porta--da--Verdade-white)
+![Badge de Equivalent](https://img.shields.io/badge/⚖️-Troca--Equivalente-darkgreen)
+![Badge de Brotherhood](https://img.shields.io/badge/❤️-Laço--Inquebrável-crimson)
 ---
 
 ## 🛠️ Modo Soldador
