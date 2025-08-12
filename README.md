@@ -8,20 +8,17 @@
 
 ## 🚀 Sobre mim
 
-void forjar_commit(char *msg) {
-    aquecer_solda();
-    soldar_componentes();
-    if (bug_detected()) {
-        invocar_leigan();
-        debugar();
-    }
-    git_add(".");
-    git_commit(msg);
-    git_push("origin", "main");
-}
-
 ![Badge de Força](https://img.shields.io/badge/⌁-Força--Na--Solda-red) ![Badge de Energia](https://img.shields.io/badge/⚡-Energia--Espiritual-yellow)
-
+![Badge de Faísca](https://img.shields.io/badge/🔥-Faísca--Criativa-orange)
+![Badge de Soldador](https://img.shields.io/badge/🛠️-Mestre--da--Solda-blue)
+![Badge de Leigan](https://img.shields.io/badge/🔫-Tiro--Espiritual-green)
+![Badge de Debug](https://img.shields.io/badge/🐛-Caçador--de--Bugs-lightgrey)
+![Badge de Torneio](https://img.shields.io/badge/⚔️-Torneio--das--Trevas-purple)
+![Badge de Energia](https://img.shields.io/badge/⚡-Rei--do--Ciclo--For-blueviolet)
+![Badge de Códigos](https://img.shields.io/badge/💻-Código--Forjado-black)
+![Badge de Espírito](https://img.shields.io/badge/👹-Detetive--Espiritual-red)
+![Badge de Resistência](https://img.shields.io/badge/🪙-1000h--de--Oficina-brown)
+![Badge de Vitória](https://img.shields.io/badge/🏆-Sem--Game--Over-gold)
 ---
 
 ## 🛠️ Modo Soldador
