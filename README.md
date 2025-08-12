@@ -28,6 +28,7 @@
 ![Badge de Verdade](https://img.shields.io/badge/👁️-Porta--da--Verdade-white)
 ![Badge de Equivalent](https://img.shields.io/badge/⚖️-Troca--Equivalente-darkgreen)
 ![Badge de Brotherhood](https://img.shields.io/badge/❤️-Laço--Inquebrável-crimson)
+
 ---
 
 ## 🛠️ Modo Soldador
@@ -43,22 +44,6 @@
 </p>
 
 ---
-## 20% 🎋
-
-### 🥋 Espírito Rock Lee: A Força do Guerreiro
-
-![💪 Força Ninja](https://img.shields.io/badge/💪-For%C3%A7a--Ninja-brightgreen)  
-![🔥 Treino Raiz](https://img.shields.io/badge/🔥-Treino--Raiz-green)  
-![⚔️ Foco e Determinação](https://img.shields.io/badge/⚔️-Foco--e--Determina%C3%A7%C3%A3o-green)  
-
-<span style="color:green; font-weight:bold">
-
-*"Mesmo sem técnicas ninjas, com muita luta e determinação,  
-Rock Lee prova que o impossível pode ser vencido."*
-
-</span>
-
----
 
 ## 30% 🐋
 
@@ -69,8 +54,6 @@ Rock Lee prova que o impossível pode ser vencido."*
   <img src="https://img.shields.io/badge/💻-Code--Trainer-lightblue" />
   <img src="https://img.shields.io/badge/🌊-Wave--Master-cyan" />
 </p>
-
----
 
 <h3 align="center">📜 Pokédex do Dev</h3>
 
@@ -111,7 +94,7 @@ Rock Lee prova que o impossível pode ser vencido."*
 ## 🔥 Projetos em destaque
     ##TrincaVolts
 
-https://github.com/henricorico/TrincaVolts
+[TrincaVolts](https://github.com/henricorico/TrincaVolts)
 
  – Sistema teórico de PEM com design de pistola e LEDs indicadores.
 
