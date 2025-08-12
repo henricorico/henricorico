@@ -45,9 +45,7 @@
 
 ---
  
-<p align="center">
-  ![Edward Elric fazendo careta engraçada](https://media.tenor.com/XXXXXXXXXXX.gif)
-</p>
+![Fullmetal Moment](https://media.tenor.com/OcU6s8kDkHgAAAAC/edward-elric-fullmetal-alchemist.gif)
 
 ---
 
