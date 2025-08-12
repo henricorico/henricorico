@@ -81,6 +81,13 @@ https://github.com/henricorico/TrincaVolts
 
 *The Division Bell* é o décimo quarto álbum de estúdio da banda britânica Pink Floyd, lançado em 1994.
 
+<p align="center">
+  <span style="background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red); 
+               -webkit-background-clip: text; color: transparent; font-size: 24px; font-weight: bold;">
+    Shine On You Crazy Diamond
+  </span>
+</p>
+
 ![Badge de Dark Side](https://img.shields.io/badge/🌈-The--Dark--Side--Of--The--Moon-black)
 ![Badge de Wall](https://img.shields.io/badge/🧱-Another--Brick--In--The--Wall-lightgrey)
 ![Badge de Wish](https://img.shields.io/badge/🔥-Wish--You--Were--Here-orange)
