@@ -84,10 +84,12 @@ https://github.com/henricorico/TrincaVolts
 <p align="center">
   <span style="background: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red); 
                -webkit-background-clip: text; color: transparent; font-size: 24px; font-weight: bold;">
-    Shine On You Crazy Diamond
+    Dark Side Of The Moon
   </span>
 </p>
 
+
+![Pink Floyd](https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png)
 ![Badge de Dark Side](https://img.shields.io/badge/🌈-The--Dark--Side--Of--The--Moon-black)
 ![Badge de Wall](https://img.shields.io/badge/🧱-Another--Brick--In--The--Wall-lightgrey)
 ![Badge de Wish](https://img.shields.io/badge/🔥-Wish--You--Were--Here-orange)
