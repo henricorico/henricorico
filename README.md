@@ -8,6 +8,12 @@
 
 ## 🚀 Sobre mim
 
+![Badge de Força](https://img.shields.io/badge/⌁-Força--Na--Solda-red) ![Badge de Energia](https://img.shields.io/badge/⚡-Energia--Espiritual-yellow)
+
+---
+
+## 🛠️ Modo Soldador
+
 <p align="center">
   <img src="https://i.imgur.com/W8uyJqK.gif" alt="Typing animation" />
 </p>
