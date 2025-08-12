@@ -44,7 +44,6 @@
 
 ---
 ## 20% 🎋
----
 
 ### 🥋 Espírito Rock Lee: A Força do Guerreiro
 
@@ -60,7 +59,7 @@ Rock Lee prova que o impossível pode ser vencido."*
 </span>
 
 ---
----
+
 ## 30% 🐋
 
 <h2 align="center">🌊 Treinador Estilo Água • Gotta Code 'Em All!</h2>
