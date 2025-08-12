@@ -44,6 +44,12 @@
 </p>
 
 ---
+ 
+<p align="center">
+  ![Edward Elric fazendo careta engraçada](https://media.tenor.com/XXXXXXXXXXX.gif)
+</p>
+
+---
 
 ## 30% 🐋
 
