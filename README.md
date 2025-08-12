@@ -43,7 +43,24 @@
 </p>
 
 ---
+## 20% 🎋
+---
 
+### 🥋 Espírito Rock Lee: A Força do Guerreiro
+
+![💪 Força Ninja](https://img.shields.io/badge/💪-For%C3%A7a--Ninja-brightgreen)  
+![🔥 Treino Raiz](https://img.shields.io/badge/🔥-Treino--Raiz-green)  
+![⚔️ Foco e Determinação](https://img.shields.io/badge/⚔️-Foco--e--Determina%C3%A7%C3%A3o-green)  
+
+<span style="color:green; font-weight:bold">
+
+*"Mesmo sem técnicas ninjas, com muita luta e determinação,  
+Rock Lee prova que o impossível pode ser vencido."*
+
+</span>
+
+---
+---
 ## 30% 🐋
 
 <h2 align="center">🌊 Treinador Estilo Água • Gotta Code 'Em All!</h2>
