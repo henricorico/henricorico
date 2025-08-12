@@ -32,6 +32,12 @@
 
 ## 🛠️ Modo Soldador
 
+![🔥 Solda na Veia](https://img.shields.io/badge/🔥-Solda--na--Veia-red)  
+![⚒️ Serralheiro Raiz](https://img.shields.io/badge/⚒️-Serralheiro--Raiz-orange)  
+![⚡ Faísca no Aço](https://img.shields.io/badge/⚡-Faísca--no--A%C3%A7o-yellow)  
+![🛠️ Ferramentas na Mão](https://img.shields.io/badge/🛠️-Ferramentas--na--M%C3%A3o-green)  
+![🔩 Parafuso & Martelo](https://img.shields.io/badge/🔩-Parafuso--%26--Martelo-blue)  
+
 <p align="center">
   <img src="https://i.imgur.com/W8uyJqK.gif" alt="Typing animation" />
 </p>
