@@ -8,6 +8,18 @@
 
 ## 🚀 Sobre mim
 
+void forjar_commit(char *msg) {
+    aquecer_solda();
+    soldar_componentes();
+    if (bug_detected()) {
+        invocar_leigan();
+        debugar();
+    }
+    git_add(".");
+    git_commit(msg);
+    git_push("origin", "main");
+}
+
 ![Badge de Força](https://img.shields.io/badge/⌁-Força--Na--Solda-red) ![Badge de Energia](https://img.shields.io/badge/⚡-Energia--Espiritual-yellow)
 
 ---
