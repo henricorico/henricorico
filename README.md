@@ -44,8 +44,7 @@
 
 ---
 
-
-<img src="https://media.tenor.com/OcU6s8kDkHgAAAAC/edward-elric-fullmetal-alchemist.gif" width="300" />
+<img src="https://i.imgur.com/TlO9qLJ.gif" alt="Fullmetal Alchemist" width="400">
 
 ---
 
