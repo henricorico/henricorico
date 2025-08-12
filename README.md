@@ -41,10 +41,6 @@
 
 ## 30% 🐋
 
-<p align="center">
-  <img src="https://archives.bulbagarden.net/media/upload/7/77/Pokémon_logo.png" width="300px" />
-</p>
-
 <h2 align="center">🌊 Treinador Estilo Água • Gotta Code 'Em All!</h2>
 
 <p align="center">
