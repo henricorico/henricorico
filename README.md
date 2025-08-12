@@ -81,8 +81,16 @@ https://github.com/henricorico/TrincaVolts
 
 *The Division Bell* é o décimo quarto álbum de estúdio da banda britânica Pink Floyd, lançado em 1994.
 
--What Do You Want from Me 🎵
-
+![Badge de Dark Side](https://img.shields.io/badge/🌈-The--Dark--Side--Of--The--Moon-black)
+![Badge de Wall](https://img.shields.io/badge/🧱-Another--Brick--In--The--Wall-lightgrey)
+![Badge de Wish](https://img.shields.io/badge/🔥-Wish--You--Were--Here-orange)
+![Badge de Animals](https://img.shields.io/badge/🐷-Pigs--On--The--Wing-pink)
+![Badge de Time](https://img.shields.io/badge/⏳-Ticking--Away--The--Moments-purple)
+![Badge de Shine](https://img.shields.io/badge/💎-Shine--On--You--Crazy--Diamond-skyblue)
+![Badge de Echoes](https://img.shields.io/badge/🌊-Echoes-darkblue)
+![Badge de UsAndThem](https://img.shields.io/badge/⚖️-Us--And--Them-darkgreen)
+![Badge de Floyd](https://img.shields.io/badge/🎸-Comfortably--Numb-red)
+![Badge de Prism](https://img.shields.io/badge/🔺-Prism--Power-yellow)
 ---
 ![Yu Yu Hakusho fofo](https://i.imgur.com/6Ehialg.gif)
 ---
