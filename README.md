@@ -22,7 +22,6 @@
 ![Badge de Alquimia](https://img.shields.io/badge/⚗️-Alquimia--Total-red)
 ![Badge de Transmutação](https://img.shields.io/badge/🔵-Círculo--de--Transmutação-blue)
 ![Badge de Automail](https://img.shields.io/badge/🤖-Braço--de--Aço-silver)
-![Badge de Elric](https://img.shields.io/badge/🟡-Irmãos--Elric-gold)
 ![Badge de Mustang](https://img.shields.io/badge/🔥-Chama--do--Mustang-orange)
 ![Badge de Armstrong](https://img.shields.io/badge/💪-Força--Brilhante-pink)
 ![Badge de Homúnculo](https://img.shields.io/badge/🧬-Pecados--Capitais-black)
@@ -47,14 +46,6 @@
   <img src="https://img.shields.io/badge/🔵-Water--Type-blue" />
   <img src="https://img.shields.io/badge/💻-Code--Trainer-lightblue" />
   <img src="https://img.shields.io/badge/🌊-Wave--Master-cyan" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://archives.bulbagarden.net/media/upload/3/39/007Squirtle.png" width="120px" />
-  <img src="https://archives.bulbagarden.net/media/upload/5/54/008Wartortle.png" width="120px" />
-  <img src="https://archives.bulbagarden.net/media/upload/0/02/009Blastoise.png" width="120px" />
 </p>
 
 ---
