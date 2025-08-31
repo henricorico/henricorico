@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://i.imgur.com/1INYrlX.gif" alt="Goku gritando" width="800">
-</p>
+</p> 
 
 ---
 
