@@ -79,14 +79,33 @@
 
 <img
 [Constanze](https://media1.tenor.com/m/VYRsY9GYZcQAAAAC/little-witch-academia-constanze.gif)
-
 ---
 
+## ⚡ Scar – O Vingador de Ishval
 
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" alt="Scar Fullmetal Alchemist" width="400">
+</p>
+
+<p align="center">
+![Marca de Alquimia](https://img.shields.io/badge/⛨-Marca_de_Alquimia-black?style=for-the-badge&logo=alchemy)
+![Força Letal](https://img.shields.io/badge/💪-Força_Brutal-darkred?style=for-the-badge)
+![Vingança](https://img.shields.io/badge/⚔️-Vingança-darkgrey?style=for-the-badge)
+![Justiça](https://img.shields.io/badge/⚖️-Justiça-darkblue?style=for-the-badge)
+![Sobrevivente](https://img.shields.io/badge/🏹-Sobrevivente-purple?style=for-the-badge)
+![Habilidade](https://img.shields.io/badge/🔥-Destruição_Alquímica-darkorange?style=for-the-badge)
+</p>
+
+<p align="center">
+Scar é o sobrevivente de Ishval, marcado pela tragédia e guiado por sua vingança. Suas mãos, símbolo de destruição e justiça, anulam alquimia inimiga e punem os culpados. Ele é a personificação de dor, força e redenção, mantendo equilíbrio entre justiça pessoal e moral.  
+</p>
+
+<p align="center">
+> *"Minhas mãos não curam, mas punem. E com elas, eu reescrevo o que é justiça."*  
+> – Scar
+</p>
+---
 ![Visitors](https://komarev.com/ghpvc/?username=seuuser&color=blue&style=flat-square)
-
-<img src="https://i.imgur.com/TlO9qLJ.gif" alt="Fullmetal Alchemist" width="400">
-
 ---
 
 ## 30% 🐋
