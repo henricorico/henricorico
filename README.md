@@ -6,12 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
-
-
-
-![Casa](https://img.shields.io/badge/Corvinal-Inteligência-blue?style=flat-square)
-![Poção](https://img.shields.io/badge/Poções-Avançado-purple?style=flat-square)
+## 🚀 sobre min 
 
 ![Solda](https://img.shields.io/badge/Solda-Inversora-lightgrey?style=social&logo=weldingmetalfab)
 ![Metal](https://img.shields.io/badge/Trampo-Serralheria-lightgrey?style=social&logo=anaconda)
