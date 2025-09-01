@@ -8,6 +8,13 @@
 
 ## 🚀 sobre min 
 
+![Deva](https://img.shields.io/badge/Caminho_Deva-Pain-red?style=for-the-badge)
+![Asura](https://img.shields.io/badge/Caminho_Asura-Pain-orange?style=for-the-badge)
+![Human](https://img.shields.io/badge/Caminho_Human-Pain-yellow?style=for-the-badge)
+![Animal](https://img.shields.io/badge/Caminho_Animal-Pain-green?style=for-the-badge)
+![Preta](https://img.shields.io/badge/Caminho_Preta-Pain-blue?style=for-the-badge)
+![Naraka](https://img.shields.io/badge/Caminho_Naraka-Pain-purple?style=for-the-badge)
+
 ![Samma Ditthi](https://img.shields.io/badge/Sammā_Diṭṭhi-Visão_Correta-blue?style=flat)
 ![Samma Sankappa](https://img.shields.io/badge/Sammā_Saṅkappa-Intenção_Correta-purple?style=flat)
 ![Samma Vaca](https://img.shields.io/badge/Sammā_Vācā-Fala_Correta-green?style=flat)
