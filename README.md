@@ -29,6 +29,14 @@
 ![Badge de Equivalent](https://img.shields.io/badge/⚖️-Troca--Equivalente-darkgreen)
 ![Badge de Brotherhood](https://img.shields.io/badge/❤️-Laço--Inquebrável-crimson)
 
+![Status](https://img.shields.io/badge/Status-Na_Luta-blue?style=for-the-badge)
+![Chess](https://img.shields.io/badge/Jogo-Xadrez-000?style=for-the-badge&logo=chess-dot-com)
+![Shape](https://img.shields.io/badge/Meta-Ficar_Sheipado-green?style=for-the-badge&logo=weightsandbiases)
+![Work](https://img.shields.io/badge/Ocupação-Serralheria-grey?style=for-the-badge&logo=anaconda)
+![Crypto](https://img.shields.io/badge/Investe-Bitcoin-orange?style=for-the-badge&logo=bitcoin)
+![Estilo](https://img.shields.io/badge/Vibe-Rock_&_Roll-black?style=for-the-badge&logo=spotify)
+![Personalidade](https://img.shields.io/badge/Modo-Cabra_da_Peste-yellow?style=for-the-badge)
+
 ---
 
 ## 🛠️ Modo Soldador
