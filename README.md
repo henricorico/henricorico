@@ -92,7 +92,7 @@
 ## 30% 🐋
 
 <h2 align="center">🌊 Treinador Estilo Água • Gotta Code 'Em All!</h2>
-
+![Descrição da GIF](https://i.imgur.com/SjT1ATe.gif)
 <p align="center">
   <img src="https://img.shields.io/badge/🔵-Water--Type-blue" />
   <img src="https://img.shields.io/badge/💻-Code--Trainer-lightblue" />
