@@ -1,3 +1,120 @@
+
+<h1 align="center">👋 E aí, eu sou o Rico</h1>
+
+<p align="center">
+  <img src="https://i.imgur.com/1INYrlX.gif" alt="Goku gritando" width="600">
+</p> 
+
+---
+
+## 🚀 Sobre mim 
+
+<p align="center">
+![Deva](https://img.shields.io/badge/Deva-天道-red?style=for-the-badge)
+![Asura](https://img.shields.io/badge/Asura-修羅道-orange?style=for-the-badge)
+![Human](https://img.shields.io/badge/Human-人間道-yellow?style=for-the-badge)
+![Animal](https://img.shields.io/badge/Animal-畜生道-green?style=for-the-badge)
+![Preta](https://img.shields.io/badge/Preta-餓鬼道-blue?style=for-the-badge)
+![Naraka](https://img.shields.io/badge/Naraka-地獄道-purple?style=for-the-badge)
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/2gCFTYa.gif" alt="Caminhos do Budismo" width="500">
+</p>
+
+<p align="center">
+![Samma Ditthi](https://img.shields.io/badge/正見-Sammā_Diṭṭhi-blue?style=flat-square)
+![Samma Sankappa](https://img.shields.io/badge/正思惟-Sammā_Saṅkappa-purple?style=flat-square)
+![Samma Vaca](https://img.shields.io/badge/正語-Sammā_Vācā-green?style=flat-square)
+![Samma Kammanta](https://img.shields.io/badge/正業-Sammā_Kammanta-orange?style=flat-square)
+![Samma Ajiva](https://img.shields.io/badge/正命-Sammā_Ājīva-red?style=flat-square)
+![Samma Vayama](https://img.shields.io/badge/正精進-Sammā_Vāyāma-yellow?style=flat-square)
+![Samma Sati](https://img.shields.io/badge/正念-Sammā_Sati-lightgrey?style=flat-square)
+![Samma Samadhi](https://img.shields.io/badge/正定-Sammā_Samādhi-blue?style=flat-square)
+</p>
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/VYRsY9GYZcQAAAAC/little-witch-academia-constanze.gif" alt="Constanze" width="400">
+</p>
+
+---
+
+## 🛠️ Modo Soldador
+
+<p align="center">
+![🔥 Solda na Veia](https://img.shields.io/badge/🔥-Solda--na--Veia-red)
+![⚒️ Serralheiro Raiz](https://img.shields.io/badge/⚒️-Serralheiro--Raiz-orange)
+![⚡ Faísca no Aço](https://img.shields.io/badge/⚡-Faísca--no--A%C3%A7o-yellow)
+![🛠️ Ferramentas na Mão](https://img.shields.io/badge/🛠️-Ferramentas--na--M%C3%A3o-green)
+![🔩 Parafuso & Martelo](https://img.shields.io/badge/🔩-Parafuso--%26--Martelo-blue)
+![Solda](https://img.shields.io/badge/Solda-Inversora-lightgrey?style=social&logo=weldingmetalfab)
+![Metal](https://img.shields.io/badge/Trampo-Serralheria-lightgrey?style=social&logo=anaconda)
+![Chispa](https://img.shields.io/badge/Fagulha-24/7-lightgrey?style=social&logo=sparkpost)
+![Ferramenta](https://img.shields.io/badge/Ferramenta-Lixadeira-lightgrey?style=social&logo=toolbox)
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/CQwFIfg.gif" alt="Fullmetal Alchemist" width="400">
+</p>
+
+---
+
+## 30% 🐋
+
+<h2 align="center">🌊 Treinador Estilo Água • Gotta Code 'Em All!'</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔵-Water--Type-blue" />
+  <img src="https://img.shields.io/badge/💻-Code--Trainer-lightblue" />
+  <img src="https://img.shields.io/badge/🌊-Wave--Master-cyan" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/SjT1ATe.gif" alt="Pokédex do Dev" width="500">
+</p>
+
+> *"No código e na batalha, flua como a água: adaptável, mas poderosa."*
+
+---
+
+## 🛠️ Minhas armas de batalha
+
+<p align="center">
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/SWjPCbc.gif" alt="Estatísticas de guerra" width="500">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=henricorico&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricorico&layout=compact&theme=tokyonight" alt="Top langs" height="165">
+</p>
+
+---
+
+## 🔥 Projetos em destaque
+
+[TrincaVolts](https://github.com/henricorico/TrincaVolts)  
+Sistema teórico de PEM com design de pistola e LEDs indicadores.
+
+---
+
+<p align="center">
+  <b>"Faça seu dinheiro como quiser, ninguém vai na sua casa perguntar o que lhe falta."</b>
+</p>
+
+
+000000
+
+
+
 <h1 align="center">👋 E aí,eu sou o Rico</h1>
 
 <p align="center">
