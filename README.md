@@ -8,6 +8,15 @@
 
 ## 🚀 sobre min 
 
+![Samma Ditthi](https://img.shields.io/badge/Sammā_Diṭṭhi-Visão_Correta-blue?style=flat)
+![Samma Sankappa](https://img.shields.io/badge/Sammā_Saṅkappa-Intenção_Correta-purple?style=flat)
+![Samma Vaca](https://img.shields.io/badge/Sammā_Vācā-Fala_Correta-green?style=flat)
+![Samma Kammanta](https://img.shields.io/badge/Sammā_Kammanta-Ação_Correta-orange?style=flat)
+![Samma Ajiva](https://img.shields.io/badge/Sammā_Ājīva-Meio_de_Vida_Correto-red?style=flat)
+![Samma Vayama](https://img.shields.io/badge/Sammā_Vāyāma-Esforço_Correto-yellow?style=flat)
+![Samma Sati](https://img.shields.io/badge/Sammā_Sati-Atenção_Correta-lightgrey?style=flat)
+![Samma Samadhi](https://img.shields.io/badge/Sammā_Samādhi-Concentração_Correta-blue?style=flat)
+
 ![Solda](https://img.shields.io/badge/Solda-Inversora-lightgrey?style=social&logo=weldingmetalfab)
 ![Metal](https://img.shields.io/badge/Trampo-Serralheria-lightgrey?style=social&logo=anaconda)
 ![Chispa](https://img.shields.io/badge/Fagulha-24/7-lightgrey?style=social&logo=sparkpost)
