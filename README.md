@@ -8,12 +8,13 @@
 
 ## 🚀 sobre min 
 
-![Deva](https://img.shields.io/badge/Caminho_Deva-Pain-red?style=for-the-badge)
-![Asura](https://img.shields.io/badge/Caminho_Asura-Pain-orange?style=for-the-badge)
-![Human](https://img.shields.io/badge/Caminho_Human-Pain-yellow?style=for-the-badge)
-![Animal](https://img.shields.io/badge/Caminho_Animal-Pain-green?style=for-the-badge)
-![Preta](https://img.shields.io/badge/Caminho_Preta-Pain-blue?style=for-the-badge)
-![Naraka](https://img.shields.io/badge/Caminho_Naraka-Pain-purple?style=for-the-badge)
+
+![Deva](https://img.shields.io/badge/Deva-天道-red?style=for-the-badge)
+![Asura](https://img.shields.io/badge/Asura-修羅道-orange?style=for-the-badge)
+![Human](https://img.shields.io/badge/Human-人間道-yellow?style=for-the-badge)
+![Animal](https://img.shields.io/badge/Animal-畜生道-green?style=for-the-badge)
+![Preta](https://img.shields.io/badge/Preta-餓鬼道-blue?style=for-the-badge)
+![Naraka](https://img.shields.io/badge/Naraka-地獄道-purple?style=for-the-badge)
 
 ![Samma Ditthi](https://img.shields.io/badge/Sammā_Diṭṭhi-Visão_Correta-blue?style=flat)
 ![Samma Sankappa](https://img.shields.io/badge/Sammā_Saṅkappa-Intenção_Correta-purple?style=flat)
