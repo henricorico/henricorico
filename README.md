@@ -78,7 +78,7 @@
 ![🔩 Parafuso & Martelo](https://img.shields.io/badge/🔩-Parafuso--%26--Martelo-blue)  
 
 <p align="center">
-  <img src="https://i.imgur.com/W8uyJqK.gif" alt="Typing animation" 
+  ![Constanze](https://media1.tenor.com/m/VYRsY9GYZcQAAAAC/little-witch-academia-constanze.gif)
 
 ---
 
