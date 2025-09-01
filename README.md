@@ -117,10 +117,12 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Descrição da GIF](https://i.imgur.com/CQwFIfg.gif)
 ---
 
 
 ## 📊 Estatísticas de guerra
+![Descrição da GIF](https://i.imgur.com/SWjPCbc.gif)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=henricorico&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricorico&layout=compact&theme=tokyonight" alt="Top langs" height="165">
