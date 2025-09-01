@@ -77,8 +77,8 @@
 ![🛠️ Ferramentas na Mão](https://img.shields.io/badge/🛠️-Ferramentas--na--M%C3%A3o-green)  
 ![🔩 Parafuso & Martelo](https://img.shields.io/badge/🔩-Parafuso--%26--Martelo-blue)  
 
-<p align="center">
-  ![Constanze](https://media1.tenor.com/m/VYRsY9GYZcQAAAAC/little-witch-academia-constanze.gif)
+<img
+[Constanze](https://media1.tenor.com/m/VYRsY9GYZcQAAAAC/little-witch-academia-constanze.gif)
 
 ---
 
