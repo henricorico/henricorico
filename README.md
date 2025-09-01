@@ -5,10 +5,6 @@
 </p> 
 
 ---
-![Café](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
-![Doido](https://img.shields.io/badge/100%25-DOIDO-red?style=flat-square)
-
-![Visitors](https://komarev.com/ghpvc/?username=seuuser&color=blue&style=flat-square)
 
 ## 🚀 Sobre mim
 
@@ -59,6 +55,9 @@
   <img src="https://i.imgur.com/W8uyJqK.gif" alt="Typing animation" 
 
 ---
+
+
+![Visitors](https://komarev.com/ghpvc/?username=seuuser&color=blue&style=flat-square)
 
 <img src="https://i.imgur.com/TlO9qLJ.gif" alt="Fullmetal Alchemist" width="400">
 
