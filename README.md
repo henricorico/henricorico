@@ -26,7 +26,7 @@
 ![Samma Vayama](https://img.shields.io/badge/正精進-Sammā_Vāyāma-yellow?style=flat-square)
 ![Samma Sati](https://img.shields.io/badge/正念-Sammā_Sati-lightgrey?style=flat-square)
 ![Samma Samadhi](https://img.shields.io/badge/正定-Sammā_Samādhi-blue?style=flat-square)
-
+![Gif da Bagaça](https://i.imgur.com/lrUnMEi.gif)
 ![Solda](https://img.shields.io/badge/Solda-Inversora-lightgrey?style=social&logo=weldingmetalfab)
 ![Metal](https://img.shields.io/badge/Trampo-Serralheria-lightgrey?style=social&logo=anaconda)
 ![Chispa](https://img.shields.io/badge/Fagulha-24/7-lightgrey?style=social&logo=sparkpost)
