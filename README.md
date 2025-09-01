@@ -8,6 +8,10 @@
 
 ## 🚀 Sobre mim
 
+![Solda](https://img.shields.io/badge/Solda-Inversora-lightgrey?style=social&logo=weldingmetalfab)
+![Metal](https://img.shields.io/badge/Trampo-Serralheria-lightgrey?style=social&logo=anaconda)
+![Chispa](https://img.shields.io/badge/Fagulha-24/7-lightgrey?style=social&logo=sparkpost)
+![Ferramenta](https://img.shields.io/badge/Ferramenta-Lixadeira-lightgrey?style=social&logo=toolbox)
 ![Casa](https://img.shields.io/badge/Casa-Corvinal-blue?style=plastic&logo=hogwarts)
 ![Varinha](https://img.shields.io/badge/Varinha-Made_in_Olivaras-brown?style=plastic)
 ![Magia](https://img.shields.io/badge/Feitiço-Expelliarmus!-yellow?style=plastic)
