@@ -8,8 +8,7 @@
 
 ## 🚀 Sobre mim
 
-![Hogwarts](https://img.shields.io/badge/Hogwarts-Orgulho_Azul-blue?style=flat)
-![Livro](https://img.shields.io/badge/Fã-Harry_Potter-green?style=flat&logo=readthedocs)
+
 
 ![Casa](https://img.shields.io/badge/Corvinal-Inteligência-blue?style=flat-square)
 ![Poção](https://img.shields.io/badge/Poções-Avançado-purple?style=flat-square)
