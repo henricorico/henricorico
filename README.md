@@ -28,7 +28,11 @@
 ![Badge de Verdade](https://img.shields.io/badge/👁️-Porta--da--Verdade-white)
 ![Badge de Equivalent](https://img.shields.io/badge/⚖️-Troca--Equivalente-darkgreen)
 ![Badge de Brotherhood](https://img.shields.io/badge/❤️-Laço--Inquebrável-crimson)
-
+![Bitcoin](https://img.shields.io/badge/Investimento-Bitcoin-orange?style=flat-square&logo=bitcoin)
+![Xadrez](https://img.shields.io/badge/Hobby-Xadrez-blue?style=flat-square&logo=chess-dot-com)
+![Trabalho](https://img.shields.io/badge/Profissão-Serralheiro-grey?style=flat-square&logo=anaconda)
+![Estudo](https://img.shields.io/badge/Estilo_Study-Abade_Faria-purple?style=flat-square&logo=bookstack)
+![Status](https://img.shields.io/badge/Status-Na_Correria-yellow?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Na_Luta-blue?style=for-the-badge)
 ![Chess](https://img.shields.io/badge/Jogo-Xadrez-000?style=for-the-badge&logo=chess-dot-com)
 ![Shape](https://img.shields.io/badge/Meta-Ficar_Sheipado-green?style=for-the-badge&logo=weightsandbiases)
