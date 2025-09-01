@@ -8,6 +8,9 @@
 
 ## 🚀 Sobre mim
 
+![Casa](https://img.shields.io/badge/Casa-Corvinal-blue?style=plastic&logo=hogwarts)
+![Varinha](https://img.shields.io/badge/Varinha-Made_in_Olivaras-brown?style=plastic)
+![Magia](https://img.shields.io/badge/Feitiço-Expelliarmus!-yellow?style=plastic)
 ![Badge de Força](https://img.shields.io/badge/⌁-Força--Na--Solda-red) ![Badge de Energia](https://img.shields.io/badge/⚡-Energia--Espiritual-yellow)
 ![Badge de Faísca](https://img.shields.io/badge/🔥-Faísca--Criativa-orange)
 ![Badge de Soldador](https://img.shields.io/badge/🛠️-Mestre--da--Solda-blue)
