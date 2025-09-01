@@ -92,8 +92,6 @@
 ## 30% 🐋
 
 <h2 align="center">🌊 Treinador Estilo Água • Gotta Code 'Em All!</h2>
-![Descrição da GIF](https://i.imgur.com/SjT1ATe.gif)
-<p align="center">
   <img src="https://img.shields.io/badge/🔵-Water--Type-blue" />
   <img src="https://img.shields.io/badge/💻-Code--Trainer-lightblue" />
   <img src="https://img.shields.io/badge/🌊-Wave--Master-cyan" />
@@ -105,6 +103,9 @@
 - **Pokémon inicial:** Squirtle 🐢💦  
 - **Badge atual:** Cascade Badge 💧  
 - **Meta final:** Ser o Mestre Pokémon do código e dos mares 🌊🏆  
+
+![Descrição da GIF](https://i.imgur.com/SjT1ATe.gif)
+<p align="center">
 
 > *"No código e na batalha, flua como a água: adaptável, mas poderosa."*
 
