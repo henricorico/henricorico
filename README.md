@@ -25,6 +25,15 @@
 ![Samma Sati](https://img.shields.io/badge/Sammā_Sati-Atenção_Correta-lightgrey?style=flat)
 ![Samma Samadhi](https://img.shields.io/badge/Sammā_Samādhi-Concentração_Correta-blue?style=flat)
 
+![Samma Ditthi](https://img.shields.io/badge/正見-Sammā_Diṭṭhi-blue?style=flat-square)
+![Samma Sankappa](https://img.shields.io/badge/正思惟-Sammā_Saṅkappa-purple?style=flat-square)
+![Samma Vaca](https://img.shields.io/badge/正語-Sammā_Vācā-green?style=flat-square)
+![Samma Kammanta](https://img.shields.io/badge/正業-Sammā_Kammanta-orange?style=flat-square)
+![Samma Ajiva](https://img.shields.io/badge/正命-Sammā_Ājīva-red?style=flat-square)
+![Samma Vayama](https://img.shields.io/badge/正精進-Sammā_Vāyāma-yellow?style=flat-square)
+![Samma Sati](https://img.shields.io/badge/正念-Sammā_Sati-lightgrey?style=flat-square)
+![Samma Samadhi](https://img.shields.io/badge/正定-Sammā_Samādhi-blue?style=flat-square)
+
 ![Solda](https://img.shields.io/badge/Solda-Inversora-lightgrey?style=social&logo=weldingmetalfab)
 ![Metal](https://img.shields.io/badge/Trampo-Serralheria-lightgrey?style=social&logo=anaconda)
 ![Chispa](https://img.shields.io/badge/Fagulha-24/7-lightgrey?style=social&logo=sparkpost)
