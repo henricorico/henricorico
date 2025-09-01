@@ -16,7 +16,7 @@
 ![Preta](https://img.shields.io/badge/Preta-餓鬼道-blue?style=for-the-badge)
 ![Naraka](https://img.shields.io/badge/Naraka-地獄道-purple?style=for-the-badge)
 
-
+![Descrição da GIF](https://i.imgur.com/2gCFTYa.gif)
 
 ![Samma Ditthi](https://img.shields.io/badge/正見-Sammā_Diṭṭhi-blue?style=flat-square)
 ![Samma Sankappa](https://img.shields.io/badge/正思惟-Sammā_Saṅkappa-purple?style=flat-square)
