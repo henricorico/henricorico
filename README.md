@@ -88,12 +88,12 @@
 </p>
 
 <p align="center">
-![Marca de Alquimia](https://img.shields.io/badge/⛨-Marca_de_Alquimia-black?style=for-the-badge&logo=alchemy)
-![Força Letal](https://img.shields.io/badge/💪-Força_Brutal-darkred?style=for-the-badge)
-![Vingança](https://img.shields.io/badge/⚔️-Vingança-darkgrey?style=for-the-badge)
-![Justiça](https://img.shields.io/badge/⚖️-Justiça-darkblue?style=for-the-badge)
-![Sobrevivente](https://img.shields.io/badge/🏹-Sobrevivente-purple?style=for-the-badge)
-![Habilidade](https://img.shields.io/badge/🔥-Destruição_Alquímica-darkorange?style=for-the-badge)
+![Marca de Alquimia](https://img.shields.io/badge/⛨-Marca_de_Alquimia-1b1b1b?style=flat-square&logoColor=white)
+![Força Letal](https://img.shields.io/badge/💪-Força_Brutal-800000?style=flat-square&logoColor=white)
+![Vingança](https://img.shields.io/badge/⚔️-Vingança-2f2f2f?style=flat-square&logoColor=white)
+![Justiça](https://img.shields.io/badge/⚖️-Justiça-0a0a0a?style=flat-square&logoColor=white)
+![Sobrevivente](https://img.shields.io/badge/🏹-Sobrevivente-4b0082?style=flat-square&logoColor=white)
+![Habilidade](https://img.shields.io/badge/🔥-Destruição_Alquímica-ff4500?style=flat-square&logoColor=white)
 </p>
 
 <p align="center">
@@ -104,6 +104,7 @@ Scar é o sobrevivente de Ishval, marcado pela tragédia e guiado por sua vingan
 > *"Minhas mãos não curam, mas punem. E com elas, eu reescrevo o que é justiça."*  
 > – Scar
 </p>
+
 ---
 ![Visitors](https://komarev.com/ghpvc/?username=seuuser&color=blue&style=flat-square)
 ---
