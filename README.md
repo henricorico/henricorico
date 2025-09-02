@@ -130,6 +130,13 @@
 </p>
 
 ---
+![Akira](https://img.shields.io/badge/Akira-Tetsuo-red?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
+![Kaneda](https://img.shields.io/badge/Kaneda-Bike-red?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+![NeoTokyo](https://img.shields.io/badge/Neo_Tokyo-City-black?style=for-the-badge&logo=unity&logoColor=red)
+![PsychicPower](https://img.shields.io/badge/Psychic-Power-purple?style=for-the-badge&logo=python&logoColor=red)
+![Explosion](https://img.shields.io/badge/Destruction-Fire-red?style=for-the-badge&logo=firefox&logoColor=orange)
+![Chuva de Código Matrix](https://i.imgur.com/xlxOxLG.gif)
+---
  
 ## 🔥 Projetos em destaque
     ##TrincaVolts
