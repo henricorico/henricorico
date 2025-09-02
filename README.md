@@ -137,7 +137,12 @@
 [TrincaVolts](https://github.com/henricorico/TrincaVolts)
 
  – Sistema teórico de PEM com design de pistola e LEDs indicadores.
-
+---
+![Matrix](https://img.shields.io/badge/Matrix-Hacker-green?style=for-the-badge&logo=gnu&logoColor=white)
+![Code](https://img.shields.io/badge/Code-Rain-green?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cipher](https://img.shields.io/badge/Cipher-Hacker-green?style=for-the-badge&logo=gnu&logoColor=white)
+![MatrixVR](https://img.shields.io/badge/Virtual-Real_green?style=for-the-badge&logo=unity&logoColor=green)
+![Oracle](https://img.shields.io/badge/Oracle-Seer-green?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 ![Yu Yu Hakusho fofo](https://i.imgur.com/6Ehialg.gif)
 ---
