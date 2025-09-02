@@ -145,6 +145,11 @@
 ![Oracle](https://img.shields.io/badge/Oracle-Seer-green?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 ![Yu Yu Hakusho fofo](https://i.imgur.com/6Ehialg.gif)
+![Hiei](https://img.shields.io/badge/Hiei-JoKen-black?style=for-the-badge&logo=adobe-illustrator&logoColor=red)
+![DragonOfTheDark](https://img.shields.io/badge/Dragon_of_Darkness-Fire-red?style=for-the-badge&logo=firefox&logoColor=orange)
+![JaganEye](https://img.shields.io/badge/Jagan_Eye-Power-purple?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Speed](https://img.shields.io/badge/Speed-Lightning-grey?style=for-the-badge&logo=swift&logoColor=yellow)
+![ColdHeart](https://img.shields.io/badge/Cold_Heart-Shadow-black?style=for-the-badge&logo=git&logoColor=purple)
 ---
 
 ##
