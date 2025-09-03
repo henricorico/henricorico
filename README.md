@@ -66,7 +66,12 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Descrição da GIF](https://i.imgur.com/CQwFIfg.gif)
+
+
+<p align="center">
+  <img src="https://i.imgur.com/CQwFIfg.gif" alt="Descrição da GIF" width="500">
+</p>
+
 ---
 
 ![Deva](https://img.shields.io/badge/Deva-天道-red?style=for-the-badge)
