@@ -67,14 +67,8 @@
 **Descrição:**  
 Dispositivo de **pulso eletromagnético (PEM)** portátil, com **design de pistola**, LEDs indicadores RGB e **refrigeração ativa**. Criado para demonstrações educativas(confia) ❤.  
 
-**Destaques do projeto:**  
-- ⚡ **Tensão total:** 27V (3x 9V em série) mas pode aumentar...
--  **Controle:** Arduino UNO/Nano  
--  **Indicadores visuais:** LEDs RGB  
--  **Resfriamento:** Dissipador + mini cooler  
--  **Função:** Pulso de 3 segundos para desligar eletrônicos próximos (uso seguro e experimental CONFIA NO PAI )  
 
-as vezes aviolência é a única solução 🦧
+as vezes a violência é a única solução 🦧
 
 ![Urânio Enriquecido](https://img.shields.io/badge/Urânio-Enriquecido-green?style=for-the-badge&logo=nuclear)
 ![Combustível de Foguete](https://img.shields.io/badge/Combustível-Foguete-red?style=for-the-badge&logo=rocket)
