@@ -44,7 +44,10 @@
     <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=fff" alt="E-mail"/>
   </a>
 </p>
+
 ---
+
+
 ## 💻 Sistemas Operacionais Favoritos  
 
 <p align="center">
@@ -54,6 +57,8 @@
 </p>
 ## 🐧 Distribuições Linux Favoritas  
 
+---
+
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch Linux" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/linuxmint/linuxmint-icon.svg" alt="Linux Mint" width="60" height="60"/>
@@ -61,7 +66,9 @@
   <img src="https://www.vectorlogo.zone/logos/kali-linux/kali-linux-icon.svg" alt="Kali Linux" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="60" height="60"/>
 </p>
+
 ---
+
 ![Deva](https://img.shields.io/badge/Deva-天道-red?style=for-the-badge)
 ![Asura](https://img.shields.io/badge/Asura-修羅道-orange?style=for-the-badge)
 ![Human](https://img.shields.io/badge/Human-人間道-yellow?style=for-the-badge)
