@@ -87,23 +87,7 @@
 ![Badge de Força](https://img.shields.io/badge/⌁-Força--Na--Solda-red) ![Badge de Energia](https://img.shields.io/badge/⚡-Energia--Espiritual-yellow)
 ![Badge de Faísca](https://img.shields.io/badge/🔥-Faísca--Criativa-orange)
 ![Badge de Soldador](https://img.shields.io/badge/🛠️-Mestre--da--Solda-blue)
-![Badge de Leigan](https://img.shields.io/badge/🔫-Tiro--Espiritual-green)
-![Badge de Debug](https://img.shields.io/badge/🐛-Caçador--de--Bugs-lightgrey)
-![Badge de Torneio](https://img.shields.io/badge/⚔️-Torneio--das--Trevas-purple)
-![Badge de Energia](https://img.shields.io/badge/⚡-Rei--do--Ciclo--For-blueviolet)
-![Badge de Códigos](https://img.shields.io/badge/💻-Código--Forjado-black)
-![Badge de Espírito](https://img.shields.io/badge/👹-Detetive--Espiritual-red)
-![Badge de Resistência](https://img.shields.io/badge/🪙-1000h--de--Oficina-brown)
-![Badge de Vitória](https://img.shields.io/badge/🏆-Sem--Game--Over-gold)
-![Badge de Alquimia](https://img.shields.io/badge/⚗️-Alquimia--Total-red)
-![Badge de Transmutação](https://img.shields.io/badge/🔵-Círculo--de--Transmutação-blue)
-![Badge de Automail](https://img.shields.io/badge/🤖-Braço--de--Aço-silver)
-![Badge de Mustang](https://img.shields.io/badge/🔥-Chama--do--Mustang-orange)
-![Badge de Armstrong](https://img.shields.io/badge/💪-Força--Brilhante-pink)
-![Badge de Homúnculo](https://img.shields.io/badge/🧬-Pecados--Capitais-black)
-![Badge de Verdade](https://img.shields.io/badge/👁️-Porta--da--Verdade-white)
-![Badge de Equivalent](https://img.shields.io/badge/⚖️-Troca--Equivalente-darkgreen)
-![Badge de Brotherhood](https://img.shields.io/badge/❤️-Laço--Inquebrável-crimson)
+
 ![Bitcoin](https://img.shields.io/badge/Investimento-Bitcoin-orange?style=flat-square&logo=bitcoin)
 ![Xadrez](https://img.shields.io/badge/Hobby-Xadrez-blue?style=flat-square&logo=chess-dot-com)
 ![Trabalho](https://img.shields.io/badge/Profissão-Serralheiro-grey?style=flat-square&logo=anaconda)
@@ -118,19 +102,6 @@
 ![Personalidade](https://img.shields.io/badge/Modo-Cabra_da_Peste-yellow?style=for-the-badge)
 
 ---
-
-## 🛠️ Modo Soldador
-
-![🔥 Solda na Veia](https://img.shields.io/badge/🔥-Solda--na--Veia-red)  
-![⚒️ Serralheiro Raiz](https://img.shields.io/badge/⚒️-Serralheiro--Raiz-orange)  
-![⚡ Faísca no Aço](https://img.shields.io/badge/⚡-Faísca--no--A%C3%A7o-yellow)  
-![🛠️ Ferramentas na Mão](https://img.shields.io/badge/🛠️-Ferramentas--na--M%C3%A3o-green)  
-![🔩 Parafuso & Martelo](https://img.shields.io/badge/🔩-Parafuso--%26--Martelo-blue)  
-
-<img
-[Constanze](https://media1.tenor.com/m/VYRsY9GYZcQAAAAC/little-witch-academia-constanze.gif)
----
-
 
 ## 30% 🐋
 
