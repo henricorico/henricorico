@@ -65,7 +65,7 @@
 [**Repositório**](https://github.com/henricorico/TrincaVolts)  
 
 **Descrição:**  
-Sistema teórico de **pulso eletromagnético (PEM)** portátil, com **design de pistola**, LEDs indicadores RGB e **refrigeração ativa**. Criado para demonstrações educativas e experimentos controlados.  
+Dispositivo de **pulso eletromagnético (PEM)** portátil, com **design de pistola**, LEDs indicadores RGB e **refrigeração ativa**. Criado para demonstrações educativas(confia) ❤.  
 
 **Destaques do projeto:**  
 - ⚡ **Tensão total:** 27V (3x 9V em série) mas pode aumentar...
