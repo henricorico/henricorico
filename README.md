@@ -4,6 +4,9 @@
   <img src="https://i.imgur.com/1INYrlX.gif" alt="Goku gritando" width="800">
 </p> 
 
+<p align="center">
+  <img src="https://i.imgur.com/vIo67Zf.gif" alt="gif" width="500"/>
+</p>
 ---
 ### 👤 Sobre mim
 - 23 anos  
