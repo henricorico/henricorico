@@ -24,6 +24,28 @@
 - ♻️ Engenharia e reaproveitamento de componentes eletrônicos  
 - ⚡ Projetos de automação e eletrônica experimental  
 ---
+
+### 🌐 Minhas Redes
+
+<p align="center">
+  <a href="https://youtube.com/@henrico_rico?si=8tHFBzwODVXRs30g">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=fff" alt="YouTube"/>
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561199324451781">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
+  </a>
+  <a href="https://open.spotify.com/user/31nx73zlehyumbkqvnptt27xhdvi">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=fff" alt="Spotify"/>
+  </a>
+  <a href="https://www.chess.com/member/h3nricool">
+    <img src="https://img.shields.io/badge/Chess.com-81b64c?style=for-the-badge&logo=chessdotcom&logoColor=fff" alt="Chess.com"/>
+  </a>
+  <a href="mailto:henriquekennedy@proton.me">
+    <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=fff" alt="E-mail"/>
+  </a>
+</p>
+
+---
 ![Deva](https://img.shields.io/badge/Deva-天道-red?style=for-the-badge)
 ![Asura](https://img.shields.io/badge/Asura-修羅道-orange?style=for-the-badge)
 ![Human](https://img.shields.io/badge/Human-人間道-yellow?style=for-the-badge)
