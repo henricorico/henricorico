@@ -66,7 +66,12 @@
 ![Preta](https://img.shields.io/badge/Preta-餓鬼道-blue?style=for-the-badge)
 ![Naraka](https://img.shields.io/badge/Naraka-地獄道-purple?style=for-the-badge)
 
-![Descrição da GIF](https://i.imgur.com/2gCFTYa.gif)
+
+
+<p align="center">
+  <img src="https://i.imgur.com/2gCFTYa.gif" alt="Descrição da GIF">
+</p>
+
 
 ![Samma Ditthi](https://img.shields.io/badge/正見-Sammā_Diṭṭhi-blue?style=flat-square)
 ![Samma Sankappa](https://img.shields.io/badge/正思惟-Sammā_Saṅkappa-purple?style=flat-square)
@@ -76,11 +81,14 @@
 ![Samma Vayama](https://img.shields.io/badge/正精進-Sammā_Vāyāma-yellow?style=flat-square)
 ![Samma Sati](https://img.shields.io/badge/正念-Sammā_Sati-lightgrey?style=flat-square)
 ![Samma Samadhi](https://img.shields.io/badge/正定-Sammā_Samādhi-blue?style=flat-square)
-![Gif da Bagaça](https://i.imgur.com/lrUnMEi.gif)
+
+
+<p align="center">
+  <img src="https://i.imgur.com/lrUnMEi.gif" alt="Gif da Bagaça"/>
+</p>
 
 
 
-![Bitcoin](https://img.shields.io/badge/Investimento-Bitcoin-orange?style=flat-square&logo=bitcoin)
 ![Xadrez](https://img.shields.io/badge/Hobby-Xadrez-blue?style=flat-square&logo=chess-dot-com)
 ![Work](https://img.shields.io/badge/Ocupação-Serralheria-grey?style=for-the-badge&logo=anaconda)
 ![Crypto](https://img.shields.io/badge/Investe-Bitcoin-orange?style=for-the-badge&logo=bitcoin)
