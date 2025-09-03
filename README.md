@@ -60,6 +60,18 @@
 </p>
 
 ---
+## 💻 Sistemas Operacionais Favoritos  
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch Linux" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" alt="Fedora" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/commons/5/5f/Windows_logo_-_2006.svg" alt="Windows 7" width="60" height="60"/>
+</p>
+---
 
 ![Deva](https://img.shields.io/badge/Deva-天道-red?style=for-the-badge)
 ![Asura](https://img.shields.io/badge/Asura-修羅道-orange?style=for-the-badge)
