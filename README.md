@@ -105,7 +105,6 @@ as vezes aviolência é a única solução 🦧
 ![Preta](https://img.shields.io/badge/Preta-餓鬼道-blue?style=for-the-badge)
 ![Naraka](https://img.shields.io/badge/Naraka-地獄道-purple?style=for-the-badge)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=henricorico&layout=compact&theme=tokyonight)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricorico&layout=compact&theme=tokyonight" alt="Top langs" height="165">
 </p>
