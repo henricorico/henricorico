@@ -59,6 +59,16 @@
  
 ---
 
+## 🛠️ Minhas armas de batalha
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Descrição da GIF](https://i.imgur.com/CQwFIfg.gif)
+---
+
 ![Deva](https://img.shields.io/badge/Deva-天道-red?style=for-the-badge)
 ![Asura](https://img.shields.io/badge/Asura-修羅道-orange?style=for-the-badge)
 ![Human](https://img.shields.io/badge/Human-人間道-yellow?style=for-the-badge)
@@ -72,6 +82,7 @@
   <img src="https://i.imgur.com/2gCFTYa.gif" alt="Descrição da GIF">
 </p>
 
+---
 
 ![Samma Ditthi](https://img.shields.io/badge/正見-Sammā_Diṭṭhi-blue?style=flat-square)
 ![Samma Sankappa](https://img.shields.io/badge/正思惟-Sammā_Saṅkappa-purple?style=flat-square)
@@ -111,21 +122,12 @@
 - **Badge atual:** Cascade Badge 💧  
 - **Meta final:** Ser o Mestre Pokémon do código e dos mares 🌊🏆  
 
-![Descrição da GIF](https://i.imgur.com/SjT1ATe.gif)
 <p align="center">
+  <img src="https://i.imgur.com/SjT1ATe.gif" alt="Descrição da GIF" width="400">
+</p>
 
 > *"No código e na batalha, flua como a água: adaptável, mas poderosa."*
 
----
-
-## 🛠️ Minhas armas de batalha
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Descrição da GIF](https://i.imgur.com/CQwFIfg.gif)
 ---
 
 
