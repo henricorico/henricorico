@@ -77,29 +77,14 @@
 ![Samma Sati](https://img.shields.io/badge/正念-Sammā_Sati-lightgrey?style=flat-square)
 ![Samma Samadhi](https://img.shields.io/badge/正定-Sammā_Samādhi-blue?style=flat-square)
 ![Gif da Bagaça](https://i.imgur.com/lrUnMEi.gif)
-![Solda](https://img.shields.io/badge/Solda-Inversora-lightgrey?style=social&logo=weldingmetalfab)
-![Metal](https://img.shields.io/badge/Trampo-Serralheria-lightgrey?style=social&logo=anaconda)
-![Chispa](https://img.shields.io/badge/Fagulha-24/7-lightgrey?style=social&logo=sparkpost)
-![Ferramenta](https://img.shields.io/badge/Ferramenta-Lixadeira-lightgrey?style=social&logo=toolbox)
-![Casa](https://img.shields.io/badge/Casa-Corvinal-blue?style=plastic&logo=hogwarts)
-![Varinha](https://img.shields.io/badge/Varinha-Made_in_Olivaras-brown?style=plastic)
-![Magia](https://img.shields.io/badge/Feitiço-Expelliarmus!-yellow?style=plastic)
-![Badge de Força](https://img.shields.io/badge/⌁-Força--Na--Solda-red) ![Badge de Energia](https://img.shields.io/badge/⚡-Energia--Espiritual-yellow)
-![Badge de Faísca](https://img.shields.io/badge/🔥-Faísca--Criativa-orange)
-![Badge de Soldador](https://img.shields.io/badge/🛠️-Mestre--da--Solda-blue)
+
+
 
 ![Bitcoin](https://img.shields.io/badge/Investimento-Bitcoin-orange?style=flat-square&logo=bitcoin)
 ![Xadrez](https://img.shields.io/badge/Hobby-Xadrez-blue?style=flat-square&logo=chess-dot-com)
-![Trabalho](https://img.shields.io/badge/Profissão-Serralheiro-grey?style=flat-square&logo=anaconda)
-![Estudo](https://img.shields.io/badge/Estilo_Study-Abade_Faria-purple?style=flat-square&logo=bookstack)
-![Status](https://img.shields.io/badge/Status-Na_Correria-yellow?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Na_Luta-blue?style=for-the-badge)
-![Chess](https://img.shields.io/badge/Jogo-Xadrez-000?style=for-the-badge&logo=chess-dot-com)
-![Shape](https://img.shields.io/badge/Meta-Ficar_Sheipado-green?style=for-the-badge&logo=weightsandbiases)
 ![Work](https://img.shields.io/badge/Ocupação-Serralheria-grey?style=for-the-badge&logo=anaconda)
 ![Crypto](https://img.shields.io/badge/Investe-Bitcoin-orange?style=for-the-badge&logo=bitcoin)
 ![Estilo](https://img.shields.io/badge/Vibe-Rock_&_Roll-black?style=for-the-badge&logo=spotify)
-![Personalidade](https://img.shields.io/badge/Modo-Cabra_da_Peste-yellow?style=for-the-badge)
 
 ---
 
