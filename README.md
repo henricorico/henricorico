@@ -5,10 +5,21 @@
 </p> 
 
 ---
+### 👤 Sobre mim
+- 23 anos  
+- 🔧 Soldador MMA  
+- 💻 Desenvolvedor em formação, com interesse em full-stack  
+- 🛠️ Experiência em serralheria e projetos técnicos  
+- 🎯 Focado em projetos pessoais  
 
-## 🚀 sobre min 
+---
 
-
+### 🎯 Áreas de interesse
+- 💻 Desenvolvimento de software  
+- 🪑 Fabricação de móveis industriais  
+- ♻️ Engenharia e reaproveitamento de componentes eletrônicos  
+- ⚡ Projetos de automação e eletrônica experimental  
+---
 ![Deva](https://img.shields.io/badge/Deva-天道-red?style=for-the-badge)
 ![Asura](https://img.shields.io/badge/Asura-修羅道-orange?style=for-the-badge)
 ![Human](https://img.shields.io/badge/Human-人間道-yellow?style=for-the-badge)
