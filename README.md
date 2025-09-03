@@ -16,6 +16,7 @@
 
 ### 🎯 Áreas de interesse
 - 💻 Desenvolvimento de software  
+- 🛢 Soldagem em Refinaria
 - 🪑 Fabricação de móveis industriais  
 - ♻️ Engenharia e reaproveitamento de componentes eletrônicos  
 - ⚡ Projetos de automação e eletrônica experimental  
