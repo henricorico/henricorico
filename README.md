@@ -117,13 +117,7 @@ as vezes aviolência é a única solução 🦧
 ![Crypto](https://img.shields.io/badge/Investe-Bitcoin-orange?style=for-the-badge&logo=bitcoin)
 ![Estilo](https://img.shields.io/badge/Vibe-Rock_&_Roll-black?style=for-the-badge&logo=spotify)
 
-
-<p align="center">
-  <img src="https://i.imgur.com/2gCFTYa.gif" alt="Descrição da GIF" width="500">
-</p>
-
-
- src="https://github-readme-stats.vercel.app/api?username=henricorico&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165">
+<p align="center"> src="https://github-readme-stats.vercel.app/api?username=henricorico&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricorico&layout=compact&theme=tokyonight" alt="Top langs" height="165">
 </p>
 
@@ -137,22 +131,20 @@ as vezes aviolência é a única solução 🦧
 ![NeoTokyo](https://img.shields.io/badge/Neo_Tokyo-City-black?style=for-the-badge&logo=unity&logoColor=red)
 ![PsychicPower](https://img.shields.io/badge/Psychic-Power-purple?style=for-the-badge&logo=python&logoColor=red)
 ![Explosion](https://img.shields.io/badge/Destruction-Fire-red?style=for-the-badge&logo=firefox&logoColor=orange)
-
-![Chuva de Código Matrix](https://i.imgur.com/xlxOxLG.gif)
----
- 
 ![Matrix](https://img.shields.io/badge/Matrix-Hacker-green?style=for-the-badge&logo=gnu&logoColor=white)
 ![Code](https://img.shields.io/badge/Code-Rain-green?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cipher](https://img.shields.io/badge/Cipher-Hacker-green?style=for-the-badge&logo=gnu&logoColor=white)
 ![MatrixVR](https://img.shields.io/badge/Virtual-Real_green?style=for-the-badge&logo=unity&logoColor=green)
 ![Oracle](https://img.shields.io/badge/Oracle-Seer-green?style=for-the-badge&logo=mysql&logoColor=white)
----
-![Yu Yu Hakusho fofo](https://i.imgur.com/6Ehialg.gif)
 ![Hiei](https://img.shields.io/badge/Hiei-JoKen-black?style=for-the-badge&logo=adobe-illustrator&logoColor=red)
 ![DragonOfTheDark](https://img.shields.io/badge/Dragon_of_Darkness-Fire-red?style=for-the-badge&logo=firefox&logoColor=orange)
 ![JaganEye](https://img.shields.io/badge/Jagan_Eye-Power-purple?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Speed](https://img.shields.io/badge/Speed-Lightning-grey?style=for-the-badge&logo=swift&logoColor=yellow)
 ![ColdHeart](https://img.shields.io/badge/Cold_Heart-Shadow-black?style=for-the-badge&logo=git&logoColor=purple)
+
+![Chuva de Código Matrix](https://i.imgur.com/xlxOxLG.gif)
+---
+
 ---
 
 ##
