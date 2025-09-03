@@ -123,41 +123,10 @@ as vezes aviolência é a única solução 🦧
 </p>
 
 
-
-## 30% 🐋
-
-<h2 align="center">🌊 Treinador Estilo Água • Gotta Code 'Em All!</h2>
-  <img src="https://img.shields.io/badge/🔵-Water--Type-blue" />
-  <img src="https://img.shields.io/badge/💻-Code--Trainer-lightblue" />
-  <img src="https://img.shields.io/badge/🌊-Wave--Master-cyan" />
-</p>
-
-<h3 align="center">📜 Pokédex do Dev</h3>
-
-- **Região:** Kanto 🗺️  
-- **Pokémon inicial:** Squirtle 🐢💦  
-- **Badge atual:** Cascade Badge 💧  
-- **Meta final:** Ser o Mestre Pokémon do código e dos mares 🌊🏆  
-
-<p align="center">
-  <img src="https://i.imgur.com/SjT1ATe.gif" alt="Descrição da GIF" width="400">
-</p>
-
-> *"No código e na batalha, flua como a água: adaptável, mas poderosa."*
-
----
-
-
-## 📊 Estatísticas de guerra
-![Descrição da GIF](https://i.imgur.com/SWjPCbc.gif)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henricorico&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165">
+ src="https://github-readme-stats.vercel.app/api?username=henricorico&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricorico&layout=compact&theme=tokyonight" alt="Top langs" height="165">
 </p>
 
----
-
-## 📈 Atividade
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=henricorico&theme=tokyo-night" alt="Gráfico de atividades">
 </p>
