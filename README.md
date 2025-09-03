@@ -182,5 +182,5 @@
 ---
 
 <p align="center">
-  <i>nimonimonimonimo</i>
+  <i>Nada jamais sai como planejado neste mundo amaldiçoado.</i>
 </p>
