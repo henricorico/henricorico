@@ -59,6 +59,28 @@
  
 ---
 
+## 🔥 Projeto em Destaque  
+
+### ⚡ TrincaVolts 2.0  
+[**Acessar no GitHub**](https://github.com/henricorico/TrincaVolts)  
+
+**Descrição:**  
+Sistema teórico de **pulso eletromagnético (PEM)** portátil, com **design de pistola**, LEDs indicadores RGB e **refrigeração ativa**. Criado para demonstrações educativas e experimentos controlados.  
+
+**Destaques do projeto:**  
+- ⚡ **Tensão total:** 27V (3x 9V em série) mas pode aumentar...
+- 🛠 **Controle:** Arduino UNO/Nano  
+- 💡 **Indicadores visuais:** LEDs RGB  
+- ❄️ **Resfriamento:** Dissipador + mini cooler  
+- 🎯 **Função:** Pulso de 3 segundos para desligar eletrônicos próximos (uso seguro e experimental CONFIA NO PAI )  
+
+![Urânio Enriquecido](https://img.shields.io/badge/Urânio-Enriquecido-green?style=for-the-badge&logo=nuclear)
+![Combustível de Foguete](https://img.shields.io/badge/Combustível-Foguete-red?style=for-the-badge&logo=rocket)
+![Perigo](https://img.shields.io/badge/Perigo-Alto-orange?style=for-the-badge&logo=hazard)
+![Laboratório Secreto](https://img.shields.io/badge/Lab-Secreto-purple?style=for-the-badge&logo=lab)
+
+---
+
 ## 🛠️ Minhas armas de batalha
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -144,16 +166,10 @@
 ![NeoTokyo](https://img.shields.io/badge/Neo_Tokyo-City-black?style=for-the-badge&logo=unity&logoColor=red)
 ![PsychicPower](https://img.shields.io/badge/Psychic-Power-purple?style=for-the-badge&logo=python&logoColor=red)
 ![Explosion](https://img.shields.io/badge/Destruction-Fire-red?style=for-the-badge&logo=firefox&logoColor=orange)
+
 ![Chuva de Código Matrix](https://i.imgur.com/xlxOxLG.gif)
 ---
  
-## 🔥 Projetos em destaque
-    ##TrincaVolts
-
-[TrincaVolts](https://github.com/henricorico/TrincaVolts)
-
- – Sistema teórico de PEM com design de pistola e LEDs indicadores.
----
 ![Matrix](https://img.shields.io/badge/Matrix-Hacker-green?style=for-the-badge&logo=gnu&logoColor=white)
 ![Code](https://img.shields.io/badge/Code-Rain-green?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cipher](https://img.shields.io/badge/Cipher-Hacker-green?style=for-the-badge&logo=gnu&logoColor=white)
