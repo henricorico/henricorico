@@ -47,17 +47,7 @@
 
 ---
 
-
 ## 💻 Sistemas Operacionais Favoritos  
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="Raspberry Pi" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Windows_logo_-_2002%E2%80%932012_%28Multicolored%29.svg" alt="Windows 7" width="60" height="60"/>
-</p>
-## 🐧 Distribuições Linux Favoritas  
-
----
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch Linux" width="60" height="60"/>
@@ -65,6 +55,8 @@
   <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" alt="Fedora" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/kali-linux/kali-linux-icon.svg" alt="Kali Linux" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Windows_logo_-_2002%E2%80%932012_%28Multicolored%29.svg" alt="Windows 7" width="60" height="60"/>
 </p>
 
 ---
