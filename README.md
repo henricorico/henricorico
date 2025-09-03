@@ -47,30 +47,18 @@
 
 ---
 
-## 💻 Sistemas Operacionais Favoritos  
+## 💻 Sistemas Operacionais Favoritos
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch Linux" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/linuxmint/linuxmint-icon.svg" alt="Linux Mint" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" alt="Fedora" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/kali-linux/kali-linux-icon.svg" alt="Kali Linux" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Windows_logo_-_2002%E2%80%932012_%28Multicolored%29.svg" alt="Windows 7" width="60" height="60"/>
+  <img src="https://cdn.simpleicons.org/archlinux" alt="Arch Linux" width="60"/>
+  <img src="https://cdn.simpleicons.org/linuxmint" alt="Linux Mint" width="60"/>
+  <img src="https://cdn.simpleicons.org/fedora" alt="Fedora" width="60"/>
+  <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="60"/>
+  <img src="https://cdn.simpleicons.org/ubuntu" alt="Ubuntu" width="60"/>
+  <img src="https://cdn.simpleicons.org/android" alt="Android" width="60"/>
+  <img src="https://cdn.simpleicons.org/windows/0078D6" alt="Windows 7" width="60"/>
 </p>
 
----
-## 💻 Sistemas Operacionais Favoritos  
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch Linux" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" alt="Linux Mint" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" alt="Fedora" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="60" height="60"/>
-  <img src="https://upload.wikimedia.org/commons/5/5f/Windows_logo_-_2006.svg" alt="Windows 7" width="60" height="60"/>
-</p>
 ---
 
 ![Deva](https://img.shields.io/badge/Deva-天道-red?style=for-the-badge)
