@@ -77,6 +77,10 @@ as vezes a violência é a única solução 🦧
 
 ---
 
+![Relógio](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF4500&width=300&lines=%F0%9F%8F%9F+%C3%89+hora+de+focar!+%F0%9F%95%91)
+
+---
+
 ## 🛠️ Minhas armas de batalha
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
