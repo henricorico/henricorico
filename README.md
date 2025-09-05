@@ -79,7 +79,9 @@ as vezes a violência é a única solução 🦧
 
 ---
 
-![Relógio](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF4500&width=300&lines=%F0%9F%8F%9F+%C3%89+hora+de+focar!+%F0%9F%95%91)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=36&pause=1000&color=FFFFFF&width=600&lines=A+esperan%C3%A7a+%C3%A9+o+pior+dos+maus,+pois+prolonga+o+sofrimento+dos+homens." />
+</p>
 
 ---
 
