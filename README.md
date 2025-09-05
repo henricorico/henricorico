@@ -116,6 +116,8 @@ as vezes a violência é a única solução 🦧
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henricorico&theme=radical" alt="Detalhes do perfil" />
 </p>
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=henricorico.henricorico)
+
 ---
 ![Akira](https://img.shields.io/badge/Akira-Tetsuo-red?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
 ![Kaneda](https://img.shields.io/badge/Kaneda-Bike-red?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
