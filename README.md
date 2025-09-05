@@ -1,6 +1,9 @@
 <h1 align="center">👋 E aí,eu sou o Rico</h1>
 
 
+![Mensagem](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1CA3EC&width=400&lines=Oi+eu+sou+o+Rico)
+
+
 <p align="center">
   <img src="https://i.imgur.com/vIo67Zf.gif" alt="gif" width="500"/>
 </p>
