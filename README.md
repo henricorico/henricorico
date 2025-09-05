@@ -1,5 +1,5 @@
 <p align="center">
-  ![Mensagem](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&pause=1000&color=1CA3EC&width=600&lines=Oi+eu+sou+o+Rico)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&pause=1000&color=1CA3EC&width=600&lines=Oi+eu+sou+o+Rico" />
 </p>
 
 
