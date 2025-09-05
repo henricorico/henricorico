@@ -133,8 +133,6 @@ as vezes a violência é a única solução 🦧
 ![Speed](https://img.shields.io/badge/Speed-Lightning-grey?style=for-the-badge&logo=swift&logoColor=yellow)
 ![ColdHeart](https://img.shields.io/badge/Cold_Heart-Shadow-black?style=for-the-badge&logo=git&logoColor=purple)
 
-![Chuva de Código Matrix](https://i.imgur.com/xlxOxLG.gif)
----
 
 ---
 
