@@ -82,7 +82,10 @@ as vezes a violência é a única solução 🦧
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=24&pause=100&color=FFFFFF&width=600&lines=A+esperan%C3%A7a+%C3%A9+o+pior+dos+males%0Apois+prolonga+o+sofrimento+dos+homens.&repeat=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&pause=1000&color=FFFFFF&width=600&lines=A+esperan%C3%A7a+%C3%A9+o+pior+dos+males" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&pause=1000&color=FFFFFF&width=600&lines=pois+prolonga+o+sofrimento+dos+homens." />
 </p>
 
 ---
