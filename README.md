@@ -1,12 +1,6 @@
-<p align="center">
-  <img src="https://i.imgur.com/mE06fcZ.gif" width="32" height="32" style="vertical-align:middle; margin-right:6px;" />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=100&color=1CA3EC&width=600&lines=Oi+eu+sou+o+Rico&repeat=true" style="vertical-align:middle;" />
-</p>
-
 <p align="center" style="display:flex; flex-direction:column; align-items:center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=100&color=6B4BFF&width=600&lines=Oi+eu+sou+o+Rico&repeat=true" style="margin-bottom:6px;" />
-  <img src="https://i.imgur.com/mE06fcZ.gif" width="32" height="32" />
-</p>
+
 
 
 <p align="center">
