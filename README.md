@@ -107,26 +107,6 @@ Dispositivo de **pulso eletromagnético (PEM)** portátil, com **design de pisto
   <img src="https://i.imgur.com/CQwFIfg.gif" alt="Descrição da GIF" width="500">
 </p>
 
----
-
-<p align="left" style="background:#000000; padding:20px; border-radius:10px; color:#00FF00; font-family: 'Fira Code', monospace; font-size:16px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Arch_Linux-logo-dark-scalable.svg" width="30" style="vertical-align:middle; margin-right:10px;"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=100&color=00FF00&width=500&lines=A+viol%C3%AAncia+%C3%A9+a+solu%C3%A7%C3%A3o&repeat=true" style="vertical-align:middle;"/>
-</p>
-
-<p align="center">
-  <svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <path id="circlePath" d="M150,150 m-100,0 a100,100 0 1,1 200,0 a100,100 0 1,1 -200,0"/>
-    </defs>
-    <text fill="#FF0000" font-size="16" font-family="Fira Code">
-      <textPath xlink:href="#circlePath" startOffset="50%" text-anchor="middle">
-        A violência é a solução
-      </textPath>
-    </text>
-    <image href="https://upload.wikimedia.org/wikipedia/commons/a/ab/Arch_Linux-logo-dark-scalable.svg" x="110" y="110" width="80" height="80"/>
-  </svg>
-</p>
 
 ---
 
