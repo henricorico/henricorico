@@ -63,7 +63,9 @@
 
 ## 🔥 Projeto em Destaque  
 
-### ⚡ TrincaVolts 2.0  
+### ⚡ <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=100&color=FFD400&width=600&lines=TrincaVolts+2.0&repeat=true" />
+</p>
 [**Repositório**](https://github.com/henricorico/TrincaVolts)  
 
 **Descrição:**  
