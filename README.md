@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=100&color=1CA3EC&width=600&lines=Oi+eu+sou+o+Rico&repeat=true" />
-</p>
+</p> <img src="https://i.imgur.com/mE06fcZ.gif" width="24" height="24" />
 
 
 <p align="center">
