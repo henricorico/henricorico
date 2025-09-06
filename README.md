@@ -63,16 +63,20 @@
 
 ## 🔥 Projeto em Destaque  
 
-### ⚡ <p align="center">
+ <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=100&color=FFD400&width=600&lines=TrincaVolts+2.0&repeat=true" />
 </p>
+
+
 [**Repositório**](https://github.com/henricorico/TrincaVolts)  
 
 **Descrição:**  
 Dispositivo de **pulso eletromagnético (PEM)** portátil, com **design de pistola**, LEDs indicadores RGB e **refrigeração ativa**. Criado para demonstrações educativas(confia) ❤.  
 
 
-as vezes a violência é a única solução 🦧
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=100&color=FF0000&width=600&lines=A+viol%C3%AAncia+%C3%A9+a+solu%C3%A7%C3%A3o&repeat=true" />
+</p> 🦧
 
 ![Urânio Enriquecido](https://img.shields.io/badge/Urânio-Enriquecido-green?style=for-the-badge&logo=nuclear)
 ![Combustível de Foguete](https://img.shields.io/badge/Combustível-Foguete-red?style=for-the-badge&logo=rocket)
