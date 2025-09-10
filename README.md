@@ -71,12 +71,9 @@
 [**Repositório**](https://github.com/henricorico/TrincaVolts)  
 
 **Descrição:**  
-Dispositivo de **pulso eletromagnético (PEM)** portátil, com **design de pistola** 
+Dispositivo de **pulso eletromagnético (PEM)** portátil.
 
 Criado apenas para para demonstrações educativas(confia) ❤.  
-
-
-
 
 ![Urânio Enriquecido](https://img.shields.io/badge/Urânio-Enriquecido-green?style=for-the-badge&logo=nuclear)
 ![Combustível de Foguete](https://img.shields.io/badge/Combustível-Foguete-red?style=for-the-badge&logo=rocket)
