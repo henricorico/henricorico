@@ -71,7 +71,9 @@
 [**Repositório**](https://github.com/henricorico/TrincaVolts)  
 
 **Descrição:**  
-Dispositivo de **pulso eletromagnético (PEM)** portátil, com **design de pistola**, LEDs indicadores RGB e **refrigeração ativa**. Criado para demonstrações educativas(confia) ❤.  
+Dispositivo de **pulso eletromagnético (PEM)** portátil, com **design de pistola** 
+
+Criado apenas para para demonstrações educativas(confia) ❤.  
 
 
 
