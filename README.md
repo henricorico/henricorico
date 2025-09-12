@@ -24,6 +24,18 @@
 - ♻️ Engenharia e reaproveitamento de componentes eletrônicos  
 - ⚡ Projetos de automação e eletrônica experimental  
 ---
+## 🛠️ Ferrmanetas 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+<p align="center">
+  <img src="https://i.imgur.com/CQwFIfg.gif" alt="Descrição da GIF" width="500">
+</p>
 
 ### 🌐 Minhas Redes
 
@@ -73,22 +85,6 @@ Dispositivo de **pulso eletromagnético (PEM)** portátil inspirado no pegeout 2
 
 ---
 
-## 🛠️ Minhas armas de batalha
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-<p align="center">
-  <img src="https://i.imgur.com/CQwFIfg.gif" alt="Descrição da GIF" width="500">
-</p>
-
-
----
-
 <h2 align="center">
   <em>“O homem, no seu orgulho, inventou a moral para escapar do desespero de ser apenas um animal.”</em>  
   <br>— Nietzsche
@@ -110,10 +106,6 @@ Dispositivo de **pulso eletromagnético (PEM)** portátil inspirado no pegeout 2
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=henricorico&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=henricorico&theme=radical&utcOffset=3" alt="Horários mais produtivos" />
 </p>
 
 <p align="center">
