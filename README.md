@@ -59,14 +59,13 @@
 
 ---
 
-## 💻 Sistemas Operacionais Favoritos
+## 💻 Os
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/archlinux" alt="Arch Linux" width="60"/>
   <img src="https://cdn.simpleicons.org/linuxmint" alt="Linux Mint" width="60"/>
   <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="60"/>
   <img src="https://www.vectorlogo.zone/logos/getfedora/getfedora-icon.svg" alt="Fedora" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="60" height="60"/>
  
 ---
