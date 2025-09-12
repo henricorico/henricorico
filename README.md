@@ -129,26 +129,6 @@ Criado apenas para para demonstrações educativas(confia) ❤.
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henricorico&theme=radical" alt="Detalhes do perfil" />
 </p>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=henricorico.henricorico)
-
----
-![Akira](https://img.shields.io/badge/Akira-Tetsuo-red?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Kaneda](https://img.shields.io/badge/Kaneda-Bike-red?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![NeoTokyo](https://img.shields.io/badge/Neo_Tokyo-City-black?style=for-the-badge&logo=unity&logoColor=red)
-![PsychicPower](https://img.shields.io/badge/Psychic-Power-purple?style=for-the-badge&logo=python&logoColor=red)
-![Explosion](https://img.shields.io/badge/Destruction-Fire-red?style=for-the-badge&logo=firefox&logoColor=orange)
-![Matrix](https://img.shields.io/badge/Matrix-Hacker-green?style=for-the-badge&logo=gnu&logoColor=white)
-![Code](https://img.shields.io/badge/Code-Rain-green?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cipher](https://img.shields.io/badge/Cipher-Hacker-green?style=for-the-badge&logo=gnu&logoColor=white)
-![MatrixVR](https://img.shields.io/badge/Virtual-Real_green?style=for-the-badge&logo=unity&logoColor=green)
-![Oracle](https://img.shields.io/badge/Oracle-Seer-green?style=for-the-badge&logo=mysql&logoColor=white)
-![Hiei](https://img.shields.io/badge/Hiei-JoKen-black?style=for-the-badge&logo=adobe-illustrator&logoColor=red)
-![DragonOfTheDark](https://img.shields.io/badge/Dragon_of_Darkness-Fire-red?style=for-the-badge&logo=firefox&logoColor=orange)
-![JaganEye](https://img.shields.io/badge/Jagan_Eye-Power-purple?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Speed](https://img.shields.io/badge/Speed-Lightning-grey?style=for-the-badge&logo=swift&logoColor=yellow)
-![ColdHeart](https://img.shields.io/badge/Cold_Heart-Shadow-black?style=for-the-badge&logo=git&logoColor=purple)
-
-
 ---
 
 ##
