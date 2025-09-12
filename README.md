@@ -19,12 +19,12 @@
 
 ### 🎯 Áreas de interesse
 - 💻 Desenvolvimento de software  
-- 🛢 Soldagem em Refinaria
+- 🛢 Soldagem multiprocesso
 - 🪑 Fabricação de móveis industriais  
 - ♻️ Engenharia e reaproveitamento de componentes eletrônicos  
 - ⚡ Projetos de automação e eletrônica experimental  
 ---
-## 🛠️ Ferrmanetas 
+## 🛠️ Ferramentas
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -101,11 +101,6 @@ Dispositivo de **pulso eletromagnético (PEM)** portátil inspirado no pegeout 2
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricorico&layout=compact&theme=tokyonight" alt="Top langs" height="165">
-</p>
-
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=henricorico&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
