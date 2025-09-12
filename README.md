@@ -14,9 +14,7 @@
 - 23 anos  
 - 🔧 Soldador MMA  
 - 💻 Desenvolvedor em formação, com interesse em full-stack  
-- 🛠️ Experiência em serralheria e projetos técnicos  
-- 🎯 Focado em projetos pessoais  
-
+- 🛠️ Experiência em serralheria e projetos técnicos
 ---
 
 ### 🎯 Áreas de interesse
@@ -162,4 +160,10 @@ Criado apenas para para demonstrações educativas(confia) ❤.
 
 <p align="center">
   <i>Nada jamais sai como planejado neste mundo amaldiçoado.</i>
+</p>
+
+---
+
+<p align="center">
+  <i>O homem nasce condenado a ser livre, e essa é sua maior prisão.</i>
 </p>
