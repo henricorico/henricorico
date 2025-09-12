@@ -105,6 +105,12 @@ Criado apenas para para demonstrações educativas(confia) ❤.
 
 ---
 
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?type=textBox&text=O%20homem,%20no%20seu%20orgulho,%20inventou%20a%20moral%20para%20escapar%20do%20desespero%20de%20ser%20apenas%20um%20animal.&width=800&height=200&font=cinzel&color=white&background=00000000" alt="Nietzsche quote"/>
+</p>
+
+---
+
 ![Deva](https://img.shields.io/badge/Deva-天道-red?style=for-the-badge)
 ![Asura](https://img.shields.io/badge/Asura-修羅道-orange?style=for-the-badge)
 ![Human](https://img.shields.io/badge/Human-人間道-yellow?style=for-the-badge)
