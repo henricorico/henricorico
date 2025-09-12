@@ -80,15 +80,6 @@ Criado apenas para para demonstrações educativas(confia) ❤.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&pause=1000&color=FFFFFF&width=600&lines=A+esperan%C3%A7a+%C3%A9+o+pior+dos+males" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=22&pause=1000&color=FFFFFF&width=600&lines=pois+prolonga+o+sofrimento+dos+homens." />
-</p>
-
----
-
 ## 🛠️ Minhas armas de batalha
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -141,16 +132,4 @@ Criado apenas para para demonstrações educativas(confia) ❤.
 ##
 <p align="center">
   <b>"Faça seu dinheiro como quiser, ninguém vai na sua casa perguntar o que lhe falta."</b>
-</p>
-
----
-
-<p align="center">
-  <i>Nada jamais sai como planejado neste mundo amaldiçoado.</i>
-</p>
-
----
-
-<p align="center">
-  <i>O homem nasce condenado a ser livre, e essa é sua maior prisão.</i>
 </p>
