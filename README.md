@@ -14,13 +14,14 @@
 - 🛠️ Experiência em serralheria e projetos técnicos
 
 ### 🎯 Áreas de interesse
-- 💻 Desenvolvimento de software  
+- 💻 Desenvolvimento de software 
+- 📂 Engenharia reversa, investigação de malware
 - 🛢 Soldagem multiprocesso
 - 🪑 Fabricação de móveis industriais  
 - ♻️ Engenharia e reaproveitamento de componentes eletrônicos  
 - ⚡ Projetos de automação e eletrônica experimental  
 ---
-## 🛠️ Ferramentas
+## 🖥 Linguagens
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -28,7 +29,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🌐 Social
+### 👨🏻‍💻 Social
 
 <p align="center">
   <a href="https://youtube.com/@henrico_rico?si=8tHFBzwODVXRs30g">
@@ -50,7 +51,7 @@
 
 ---
 
-## 💻 Os
+## 💻 Distros que uso
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/archlinux" alt="Arch Linux" width="60"/>
@@ -65,11 +66,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=100&color=FFD400&width=600&lines=TrincaVolts+2.0&repeat=true" />
 </p>
 
-
-[**Repositório**](https://github.com/henricorico/TrincaVolts)  
-
-**Descrição:**  
-Dispositivo de **pulso eletromagnético (PEM)**
+[**Trincavolts🔋**](https://github.com/henricorico/TrincaVolts)  
 
 ---
 
@@ -82,7 +79,6 @@ Dispositivo de **pulso eletromagnético (PEM)**
 
 ---
 
-##
 <p align="center">
-  <b>"Faça seu dinheiro como quiser, ninguém vai na sua casa perguntar o que lhe falta."</b>
+  <i>"Faça seu dinheiro como quiser, ninguém vai na sua casa perguntar o que lhe falta."</i>
 </p>
