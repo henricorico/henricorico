@@ -28,12 +28,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-
-<p align="center">
-  <img src="https://i.imgur.com/CQwFIfg.gif" alt="Descrição da GIF" width="500">
-</p>
-
-### 🌐 Minhas Redes
+### 🌐 Social
 
 <p align="center">
   <a href="https://youtube.com/@henrico_rico?si=8tHFBzwODVXRs30g">
@@ -60,7 +55,6 @@
 <p align="center">
   <img src="https://cdn.simpleicons.org/archlinux" alt="Arch Linux" width="60"/>
   <img src="https://cdn.simpleicons.org/linuxmint" alt="Linux Mint" width="60"/>
-  <img src="https://cdn.simpleicons.org/kalilinux" alt="Kali Linux" width="60"/>
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="60" height="60"/>
  
 ---
@@ -78,14 +72,6 @@
 Dispositivo de **pulso eletromagnético (PEM)**
 
 ---
-
-![Deva](https://img.shields.io/badge/Deva-天道-red?style=for-the-badge)
-![Asura](https://img.shields.io/badge/Asura-修羅道-orange?style=for-the-badge)
-![Human](https://img.shields.io/badge/Human-人間道-yellow?style=for-the-badge)
-![Animal](https://img.shields.io/badge/Animal-畜生道-green?style=for-the-badge)
-![Preta](https://img.shields.io/badge/Preta-餓鬼道-blue?style=for-the-badge)
-![Naraka](https://img.shields.io/badge/Naraka-地獄道-purple?style=for-the-badge)
-
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricorico&layout=compact&theme=tokyonight" alt="Top langs" height="165">
 </p>
