@@ -80,10 +80,6 @@ Dispositivo de **pulso eletromagnético (PEM)** portátil inspirado no pegeout 2
 
 ---
 
-<h2 align="center">
-  <em>“O homem, no seu orgulho, inventou a moral para escapar do desespero de ser apenas um animal.”</em>  
-  <br>— Nietzsche
-</h2>
 
 ![Deva](https://img.shields.io/badge/Deva-天道-red?style=for-the-badge)
 ![Asura](https://img.shields.io/badge/Asura-修羅道-orange?style=for-the-badge)
