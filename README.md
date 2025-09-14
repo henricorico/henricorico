@@ -75,10 +75,9 @@
 [**Repositório**](https://github.com/henricorico/TrincaVolts)  
 
 **Descrição:**  
-Dispositivo de **pulso eletromagnético (PEM)** portátil inspirado no pegeout 206.
+Dispositivo de **pulso eletromagnético (PEM)**
 
 ---
-
 
 ![Deva](https://img.shields.io/badge/Deva-天道-red?style=for-the-badge)
 ![Asura](https://img.shields.io/badge/Asura-修羅道-orange?style=for-the-badge)
