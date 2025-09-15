@@ -59,15 +59,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=100&color=FFD400&width=600&lines=TrincaVolts+2.0&repeat=true" />
 </p>
 
-[**Trincavolts🔋**](https://github.com/henricorico/TrincaVolts)  
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricorico&layout=compact&theme=tokyonight" alt="Top langs" height="165">
-</p>
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henricorico&theme=radical" alt="Detalhes do perfil" />
-</p>
-
+[**Trincavolts🔋**](https://github.com/henricorico/TrincaVolts)
 ---
 
 <p align="center">
