@@ -1,8 +1,6 @@
 <p align="center" style="display:flex; flex-direction:column; align-items:center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=100&color=6B4BFF&width=600&lines=Oi+eu+sou+o+Rico&repeat=true" style="margin-bottom:6px;" />
 
-
-
 <p align="center">
   <img src="https://i.imgur.com/vIo67Zf.gif" alt="gif" width="500"/>
 </p>
@@ -49,16 +47,12 @@
   </a>
 </p>
 
----
-
 ## 💻 Distros que uso
 
 <p align="center">
   <img src="https://cdn.simpleicons.org/archlinux" alt="Arch Linux" width="60"/>
   <img src="https://cdn.simpleicons.org/linuxmint" alt="Linux Mint" width="60"/>
   <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="60" height="60"/>
- 
----
 
 ## 🔥 Projeto em Destaque  
 
@@ -67,8 +61,6 @@
 </p>
 
 [**Trincavolts🔋**](https://github.com/henricorico/TrincaVolts)  
-
----
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henricorico&layout=compact&theme=tokyonight" alt="Top langs" height="165">
 </p>
