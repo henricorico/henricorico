@@ -15,8 +15,7 @@
 - 💻 Desenvolvimento de software 
 - 📂 Engenharia reversa, investigação de malware
 - 🛢 Soldagem multiprocesso
-- 🪑 Fabricação de móveis industriais  
-- ♻️ Engenharia e reaproveitamento de componentes eletrônicos  
+- 🪑 Fabricação de móveis industriais
 - ⚡ Projetos de automação e eletrônica experimental  
 
 ## 🖥 Linguagens
@@ -56,8 +55,3 @@
 ## 🔥 Projeto em Destaque  
 
 [**Trincavolts🔋**](https://github.com/henricorico/TrincaVolts)
----
-
-<p align="center">
-  <i>"Faça seu dinheiro como quiser, ninguém vai na sua casa perguntar o que lhe falta."</i>
-</p>
