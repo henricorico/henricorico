@@ -18,7 +18,7 @@
 - 🪑 Fabricação de móveis industriais  
 - ♻️ Engenharia e reaproveitamento de componentes eletrônicos  
 - ⚡ Projetos de automação e eletrônica experimental  
----
+
 ## 🖥 Linguagens
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -52,7 +52,6 @@
 <p align="center">
   <img src="https://cdn.simpleicons.org/archlinux" alt="Arch Linux" width="60"/>
   <img src="https://cdn.simpleicons.org/linuxmint" alt="Linux Mint" width="60"/>
-  <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="60" height="60"/>
 
 ## 🔥 Projeto em Destaque  
 
