@@ -28,9 +28,6 @@
 
 ### 👨🏻‍💻 Social
 
-<p align="center">
-  <a href="https://youtube.com/@henrico_rico?si=8tHFBzwODVXRs30g">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=fff" alt="YouTube"/>
   </a>
   <a href="https://steamcommunity.com/profiles/76561199324451781">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
@@ -45,12 +42,6 @@
     <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=fff" alt="E-mail"/>
   </a>
 </p>
-
-## 💻 Distros que uso
-
-<p align="center">
-  <img src="https://cdn.simpleicons.org/archlinux" alt="Arch Linux" width="60"/>
-  <img src="https://cdn.simpleicons.org/linuxmint" alt="Linux Mint" width="60"/>
 
 ## 🔥 Projeto em Destaque  
 
