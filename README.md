@@ -15,7 +15,6 @@
 - 💻 Desenvolvimento de software 
 - 📂 Engenharia reversa, investigação de malware
 - 🛢 Soldagem multiprocesso
-- 🪑 Fabricação de móveis industriais
 - ⚡ Projetos de automação e eletrônica experimental  
 
 ## 🖥 Linguagens
