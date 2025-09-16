@@ -31,9 +31,6 @@
   <a href="https://steamcommunity.com/profiles/76561199324451781">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   </a>
-  <a href="https://open.spotify.com/user/31nx73zlehyumbkqvnptt27xhdvi">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=fff" alt="Spotify"/>
-  </a>
   <a href="https://www.chess.com/member/h3nricool">
     <img src="https://img.shields.io/badge/Chess.com-81b64c?style=for-the-badge&logo=chessdotcom&logoColor=fff" alt="Chess.com"/>
   </a>
