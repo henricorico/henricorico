@@ -6,17 +6,11 @@
 </p>
 
 ### 👤 Sobre mim
-- 23 anos  
-- 🔧 Soldador MMA  
-- 💻 Desenvolvedor em formação, com interesse em full-stack  
-- 🛠️ Experiência em serralheria e projetos técnicos
-
+- 23 anos
+- 💻 Desenvolvedor em formação, com interesse em full-stack
 ### 🎯 Áreas de interesse
 - 💻 Desenvolvimento de software 
 - 📂 Engenharia reversa, investigação de malware
-- 🛢 Soldagem multiprocesso
-- ⚡ Projetos de automação e eletrônica experimental  
-
 ## 🖥 Linguagens
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -30,9 +24,6 @@
   </a>
   <a href="https://steamcommunity.com/profiles/76561199324451781">
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
-  </a>
-  <a href="https://www.chess.com/member/h3nricool">
-    <img src="https://img.shields.io/badge/Chess.com-81b64c?style=for-the-badge&logo=chessdotcom&logoColor=fff" alt="Chess.com"/>
   </a>
   <a href="mailto:henriquekennedy@proton.me">
     <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=fff" alt="E-mail"/>
