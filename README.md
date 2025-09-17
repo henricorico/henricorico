@@ -20,10 +20,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 👨🏻‍💻 Social
-
-  </a>
-  <a href="https://steamcommunity.com/profiles/76561199324451781">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"/>
   </a>
   <a href="mailto:henriquekennedy@proton.me">
     <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=fff" alt="E-mail"/>
