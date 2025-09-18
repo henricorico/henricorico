@@ -8,9 +8,6 @@
 ### 👤 Sobre mim
 - 23 anos
 - 💻 Desenvolvedor em formação, com interesse em full-stack
-### 🎯 Áreas de interesse
-- 💻 Desenvolvimento de software 
-- 📂 Engenharia reversa, investigação de malware
 ## 🖥 Linguagens
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
