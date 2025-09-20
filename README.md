@@ -6,7 +6,7 @@
 </p>
 
 ### 👤 Sobre mim
-- 23 anos
+- 🦧 23 anos
 - 💻 Desenvolvedor em formação, com interesse em full-stack
 ## 🖥 Linguagens
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
