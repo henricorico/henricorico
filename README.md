@@ -25,4 +25,4 @@
 
 ## 🔥 Projeto em Destaque  
 
-[**Trincavolts🔋**](https://github.com/henricorico/TrincaVolts)
+[**Trincavolts🚂**](https://github.com/henricorico/TrincaVolts)
