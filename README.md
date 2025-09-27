@@ -22,7 +22,3 @@
     <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=fff" alt="E-mail"/>
   </a>
 </p>
-
-## 🔥 Projeto em Destaque  
-
-[**Trincavolts🚂**](https://github.com/henricorico/TrincaVolts)
