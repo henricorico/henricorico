@@ -16,9 +16,3 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 👨🏻‍💻 Social
-  </a>
-  <a href="mailto:henriquekennedy@proton.me">
-    <img src="https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=fff" alt="E-mail"/>
-  </a>
-</p>
