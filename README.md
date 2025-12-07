@@ -1,9 +1,8 @@
-
 <p align="center" style="display:flex; flex-direction:column; align-items:center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=42&pause=100&color=FF69B4&width=600&lines=Oi+eu+sou+o+Rico&repeat=true" style="margin-bottom:6px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sawarabi+Mincho&size=42&pause=100&color=FF69B4&width=600&lines=Oi+eu+sou+o+Rico&repeat=true" style="margin-bottom:6px;" />
 
 <p align="center">
-  <img src="https://i.imgur.com/vIo67Zf.gif" alt="gif" width="500"/>
+  <img src="https://i.imgur.com/FKMACgP.gif" alt="gif" width="500"/>
 </p>
 
 ## 🖥 Linguagens
