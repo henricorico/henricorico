@@ -6,7 +6,7 @@
   <img src="https://imgur.com/jfAKDcw.gif" alt="gif" width="500"/>
 </p>
 
-## 🖥 Linguagens
+## ♔ Linguagens
 ![PHP](https://img.shields.io/badge/PHP-FF8C00?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-FF9F1C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-FFAA33?style=for-the-badge&logo=c%2B%2B&logoColor=white)
