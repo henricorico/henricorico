@@ -1,5 +1,5 @@
 <p align="center" style="display:flex; flex-direction:column; align-items:center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturCook&size=34&pause=120&color=4B4B4B&width=650&lines=✠+Saudações,+eu+sou+Rico+✠;✞+Welcome+to+the+Northern+Lands+✞&repeat=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturCook&size=34&pause=120&color=4B4B4B&width=650&lines=✠+Eu+sou+o+Rico+✠;✞+Welcome+to+the+Northern+Lands+✞&repeat=true" />
 </p>
 
 <p align="center">
