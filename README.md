@@ -1,5 +1,5 @@
 <p align="center" style="display:flex; flex-direction:column; align-items:center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturCook&size=34&pause=120&color=3B0000&width=650&lines=✠+Saudações,+eu+sou+Rico+✠;✞+Welcome+to+the+Northern+Lands+✞&repeat=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturCook&size=34&pause=120&color=4B4B4B&width=650&lines=✠+Saudações,+eu+sou+Rico+✠;✞+Welcome+to+the+Northern+Lands+✞&repeat=true" />
 </p>
 
 <p align="center">
@@ -11,12 +11,12 @@
 <h2 align="center">✠ Linguagens ✠</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-1C0000?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-240000?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-2C0000?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-340000?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-3C0000?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-120000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-2A2A2A?style=for-the-badge&logo=php&logoColor=E5E5E5"/>
+  <img src="https://img.shields.io/badge/C-303030?style=for-the-badge&logo=c&logoColor=E5E5E5"/>
+  <img src="https://img.shields.io/badge/C++-363636?style=for-the-badge&logo=c%2B%2B&logoColor=E5E5E5"/>
+  <img src="https://img.shields.io/badge/C%23-3C3C3C?style=for-the-badge&logo=c-sharp&logoColor=E5E5E5"/>
+  <img src="https://img.shields.io/badge/HTML5-424242?style=for-the-badge&logo=html5&logoColor=E5E5E5"/>
+  <img src="https://img.shields.io/badge/Linux-1F1F1F?style=for-the-badge&logo=linux&logoColor=E5E5E5"/>
 </p>
 
 ---
