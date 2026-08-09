@@ -2,6 +2,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturCook&size=34&pause=120&color=4B4B4B&width=650&lines=✠+Eu+sou+o+Rico+✠;✞+Welcome+to+the+Northern+Lands+✞&repeat=true" />
 </p>
 
+
+apenas estética,não sei programar 🫪
+
 <p align="center">
   <img src="https://i.imgur.com/Z9OdSnO.gif" alt="gothic ambience" width="500"/>
 </p>
