@@ -6,16 +6,14 @@
 
 <div align="center">"> SYSTEM_ANALYSIS"
 
-"// LANGUAGE DISTRIBUTION"
+"// PROFILE_STATISTICS"
 
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3nricool&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41"
-alt="Most Used Languages"
-/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h3nricool&theme=github_dark" /><br><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h3nricool&theme=github_dark" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h3nricool&theme=github_dark" /></div>---
 
 [ STATUS ] ONLINE
 [ MODE   ] DEEP_SCAN
-[ SYSTEM ] LANGUAGE_ANALYSIS
+[ SYSTEM ] PROFILE_ANALYSIS
+[ USER   ] H3NRICOOL
 
 <p align="center">
   <img src="https://i.imgur.com/Z9OdSnO.gif" alt="gothic ambience" width="500"/>
@@ -30,6 +28,18 @@ alt="Most Used Languages"
   <img src="https://img.shields.io/badge/Linux-1F1F1F?style=for-the-badge&logo=linux&logoColor=E5E5E5"/>
 </p>---
 
+<h2 align="center">✠ SYSTEM LOG ✠</h2>╔══════════════════════════════════════╗
+║          NORTHERN LANDS              ║
+╠══════════════════════════════════════╣
+║ STATUS       : ONLINE                ║
+║ CLEARANCE    : UNKNOWN               ║
+║ LOCATION     : CLASSIFIED             ║
+║ PROTOCOL     : DEEP_SCAN              ║
+║ PURPOSE      : EVOLUTION              ║
+╚══════════════════════════════════════╝
+
+---
+
 <p align="center">
   <sub>
     ✠ “If the Spirit of Him who raised Jesus from the dead dwells in you,
@@ -38,4 +48,4 @@ alt="Most Used Languages"
     <br>
     — Romans 8:11 ✠
   </sub>
-</p></div>
+</p>
