@@ -4,48 +4,66 @@
   <i>apenas estética, não sei programar 🫪</i>
 </p>---
 
-<div align="center">"> SYSTEM_ANALYSIS"
+<div align="center">"> SYSTEM_BOOT"
 
-"// PROFILE_STATISTICS"
+╔══════════════════════════════════════╗
+║                                      ║
+║        N O R T H E R N   L A N D S   ║
+║                                      ║
+║        [ SYSTEM INITIALIZED ]        ║
+║        [ USER      : RICO ]          ║
+║        [ STATUS    : ONLINE ]        ║
+║        [ PROTOCOL  : UNKNOWN ]       ║
+║                                      ║
+╚══════════════════════════════════════╝
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h3nricool&theme=github_dark" /><br><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h3nricool&theme=github_dark" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h3nricool&theme=github_dark" /></div>---
+</div>---
 
-[ STATUS ] ONLINE
-[ MODE   ] DEEP_SCAN
-[ SYSTEM ] PROFILE_ANALYSIS
-[ USER   ] H3NRICOOL
+<h2 align="center">✠ About Me ✠</h2><p align="center">
+  Entre ferro, códigos e ideias, sigo construindo alguma coisa.
+  <br>
+  <i>Still learning. Still evolving.</i>
+</p>---
+
+<h2 align="center">✠ Arsenal ✠</h2><p align="center">
+  <img src="https://img.shields.io/badge/HTML5-1A1A1A?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Markdown-1A1A1A?style=for-the-badge&logo=markdown&logoColor=FFFFFF"/>
+</p>---
+
+<h2 align="center">✠ Terminal ✠</h2>$ whoami
+
+RICO
+
+$ cat /etc/motd
+
+"Per aspera ad astra."
+
+$ systemctl status evolution
+
+● evolution.service - Personal Evolution
+   Loaded: enabled
+   Active: running
+   Process: learning
+   Memory: unlimited
+
+---
 
 <p align="center">
   <img src="https://i.imgur.com/Z9OdSnO.gif" alt="gothic ambience" width="500"/>
 </p>---
 
-<h2 align="center">✠ Linguagens ✠</h2><p align="center">
-  <img src="https://img.shields.io/badge/PHP-2A2A2A?style=for-the-badge&logo=php&logoColor=E5E5E5"/>
-  <img src="https://img.shields.io/badge/C-303030?style=for-the-badge&logo=c&logoColor=E5E5E5"/>
-  <img src="https://img.shields.io/badge/C++-363636?style=for-the-badge&logo=c%2B%2B&logoColor=E5E5E5"/>
-  <img src="https://img.shields.io/badge/C%23-3C3C3C?style=for-the-badge&logo=c-sharp&logoColor=E5E5E5"/>
-  <img src="https://img.shields.io/badge/HTML5-424242?style=for-the-badge&logo=html5&logoColor=E5E5E5"/>
-  <img src="https://img.shields.io/badge/Linux-1F1F1F?style=for-the-badge&logo=linux&logoColor=E5E5E5"/>
-</p>---
-
-<h2 align="center">✠ SYSTEM LOG ✠</h2>╔══════════════════════════════════════╗
-║          NORTHERN LANDS              ║
-╠══════════════════════════════════════╣
-║ STATUS       : ONLINE                ║
-║ CLEARANCE    : UNKNOWN               ║
-║ LOCATION     : CLASSIFIED             ║
-║ PROTOCOL     : DEEP_SCAN              ║
-║ PURPOSE      : EVOLUTION              ║
-╚══════════════════════════════════════╝
-
----
-
-<p align="center">
-  <sub>
-    ✠ “If the Spirit of Him who raised Jesus from the dead dwells in you,
+<h2 align="center">✠ Creed ✠</h2><p align="center">
+  <i>
+    “If the Spirit of Him who raised Jesus from the dead dwells in you,
     He who raised Christ Jesus from the dead will also give life to your mortal bodies
     through His Spirit who dwells in you.”
-    <br>
-    — Romans 8:11 ✠
-  </sub>
+  </i>
+  <br>
+  — Romans 8:11
+</p>---
+
+<p align="center">
+  <sub>✠ PER ASPERA AD ASTRA ✠</sub>
 </p>
