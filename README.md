@@ -26,10 +26,18 @@
 </p>---
 
 <h2 align="center">✠ Arsenal ✠</h2><p align="center">
+  <img src="https://img.shields.io/badge/C-1A1A1A?style=for-the-badge&logo=c&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/C++-1A1A1A?style=for-the-badge&logo=cplusplus&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/C%23-1A1A1A?style=for-the-badge&logo=csharp&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Rust-1A1A1A?style=for-the-badge&logo=rust&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Java-1A1A1A?style=for-the-badge&logo=openjdk&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Python-1A1A1A?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/JavaScript-1A1A1A?style=for-the-badge&logo=javascript&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/HTML5-1A1A1A?style=for-the-badge&logo=html5&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/CSS3-1A1A1A?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Linux-1A1A1A?style=for-the-badge&logo=linux&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Git-1A1A1A?style=for-the-badge&logo=git&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Markdown-1A1A1A?style=for-the-badge&logo=markdown&logoColor=FFFFFF"/>
 </p>---
 
 <h2 align="center">✠ Terminal ✠</h2>$ whoami
@@ -49,6 +57,15 @@ $ systemctl status evolution
    Memory: unlimited
 
 ---
+
+<div align="center">"> CURRENT_OBJECTIVE"
+
+[ LEARN        ] ████████████████████
+[ BUILD        ] ████████████░░░░░░░░
+[ CREATE       ] ██████████░░░░░░░░░░
+[ EVOLVE       ] ████████████████████
+
+</div>---
 
 <p align="center">
   <img src="https://i.imgur.com/Z9OdSnO.gif" alt="gothic ambience" width="500"/>
