@@ -20,7 +20,7 @@
 </div>---
 
 <h2 align="center">✠ About Me ✠</h2><p align="center">
-  Entre ferro, códigos e ideias, sigo construindo alguma coisa.
+  Entre códigos e ideias, sigo construindo alguma coisa.
   <br>
   <i>Still learning. Still evolving.</i>
 </p>---
