@@ -5,6 +5,20 @@
 
 apenas estética,não sei programar 🫪
 
+---
+<div align="center">
+
+# `> SYSTEM_ANALYSIS`
+
+### `// LANGUAGE DISTRIBUTION`
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41" />
+
+```text
+[ STATUS ] ONLINE
+[ MODE   ] DEEP_SCAN
+[ SYSTEM ] LANGUAGE_ANALYSIS
+
 <p align="center">
   <img src="https://i.imgur.com/Z9OdSnO.gif" alt="gothic ambience" width="500"/>
 </p>
