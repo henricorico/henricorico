@@ -8,7 +8,12 @@
 
 "// LANGUAGE DISTRIBUTION"
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3nricool&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41" />[ STATUS ] ONLINE
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=h3nricool&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=00FF41"
+alt="Most Used Languages"
+/>
+
+[ STATUS ] ONLINE
 [ MODE   ] DEEP_SCAN
 [ SYSTEM ] LANGUAGE_ANALYSIS
 
