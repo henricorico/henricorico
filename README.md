@@ -19,11 +19,6 @@
 
 </div>---
 
-<h2 align="center">✠ About Me ✠</h2><p align="center">
-  Entre códigos e ideias, sigo construindo alguma coisa.
-  <br>
-  <i>Still learning. Still evolving.</i>
-</p>---
 
 <h2 align="center">✠ Arsenal ✠</h2><p align="center">
   <img src="https://img.shields.io/badge/C-1A1A1A?style=for-the-badge&logo=c&logoColor=FFFFFF"/>
@@ -81,6 +76,3 @@ $ systemctl status evolution
   — Romans 8:11
 </p>---
 
-<p align="center">
-  <sub>✠ PER ASPERA AD ASTRA ✠</sub>
-</p>
