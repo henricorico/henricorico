@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturCook&size=34&pause=120&color=4B4B4B&width=650&lines=✠+Eu+sou+o+Rico+✠;✞+Welcome+to+the+Northern+Lands+✞&repeat=true" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=UnifrakturCook&size=34&pause=120&color=4B4B4B&width=650&lines=✠+Eu+sou+o+Rico水+✠;✞+Welcome+to+the+Northern+Lands+✞&repeat=true" />
 </p><p align="center">
   <i>apenas estética, não sei programar 🫪</i>
 </p>---
@@ -37,7 +37,7 @@
 
 <h2 align="center">✠ Terminal ✠</h2>$ whoami
 
-RICO
+RICO 水
 
 $ cat /etc/motd
 
